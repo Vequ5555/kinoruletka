@@ -18,7 +18,7 @@ android {
         applicationId 'com.directorsroulette.app'
         minSdk 23
         targetSdk 35
-        versionCode (System.getenv('ANDROID_VERSION_CODE') ?: '2').toInteger()
+        versionCode = (System.getenv('ANDROID_VERSION_CODE') ?: '2').toInteger()
         versionName '2.1'
     }
 }
