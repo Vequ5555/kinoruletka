@@ -5,12 +5,13 @@ const clone=s=>JSON.parse(JSON.stringify(s));
 function validate(s,c){
  if(!s||s.version!==2||!Array.isArray(s.completed)||typeof s.sound!=='boolean'||typeof s.vibration!=='boolean') return false;
  const seen=new Set();
+ const dateOk=v=>typeof v==='string' && /^\d{4}-\d{2}-\d{2}T/.test(v) && Number.isFinite(Date.parse(v));
  const check=(x,done)=>{
   if(!x||seen.has(x.id))return false; seen.add(x.id);
   const d=c.find(z=>z.id===x.id); if(!d||!Array.isArray(x.films)||x.films.length!==3||typeof x.replaced!=='boolean')return false;
-  if(!x.films.every((f,i)=>f&&d.films.some((z,j)=>z.id===f.id&&(j===i||(x.replaced&&j>=3)))&&(f.rating===null||(Number.isInteger(f.rating)&&f.rating>=2&&f.rating<=20&&typeof f.date==='string'))))return false;
+  if(!x.films.every((f,i)=>f&&d.films.some((z,j)=>z.id===f.id&&(j===i||(x.replaced&&j>=3)))&&(f.rating===null||(Number.isInteger(f.rating)&&f.rating>=2&&f.rating<=20&&dateOk(f.date)))))return false;
   if(new Set(x.films.map(f=>f.id)).size!==3||x.films.filter(f=>d.films.slice(3).some(z=>z.id===f.id)).length!==(x.replaced?1:0))return false;
-  return done?x.films.every(f=>f.rating!==null)&&typeof x.completedAt==='string':x.films.some(f=>f.rating===null);
+  return done?x.films.every(f=>f.rating!==null)&&dateOk(x.completedAt):x.films.some(f=>f.rating===null);
  };
  return s.completed.every(x=>check(x,true))&&(s.current===null||check(s.current,false));
 }
