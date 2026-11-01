@@ -58,3 +58,33 @@
 - d06f02: BFI — 128 минут, [AFI](https://catalog.afi.com/Catalog/moviedetails/52788) указывает несколько значений между 120 и 128 минутами.
 - d06f05: AFI в заголовке указывает 120 минут, а в деталях — 119; причина расхождения не установлена.
 - d02f06: музейный показ цифровой копии — 149 минут; [UCL](https://www.ucl.ac.uk/library/using-library/libraries-and-study-spaces/ssees-library/bain-graffy-film-collection/feature-films-other-countries-russian-central-european-and-east-european-subjects) описывает копию продолжительностью 145 минут.
+
+## Проверка продолжительности — вторая партия, 1 ноября 2026
+
+Проверены только продолжительности в указанных источниках и идентификация. Остальные поля остаются предварительными.
+
+- d07f01 — Крёстный отец: 175 мин. [Источник](https://www.bfi.org.uk/film/ccc481e1-f1c2-5b60-bbe7-77ad5645fb1a/the-godfather).
+- d07f02 — Апокалипсис сегодня: 146 мин. [Источник](https://catalog.afi.com/Film/67464-APOCALYPSE-NOW).
+- d07f03 — Разговор: 113 мин. [Источник](https://catalog.afi.com/Film/53857-THE-CONVERSATION).
+- d07f04 — Крёстный отец 2: 200 мин. [Источник](https://catalog.afi.com/Film/54026-THE-GODFATHERPARTII).
+- d07f05 — Дракула: 123 мин. [Источник](https://catalog.afi.com/Catalog/MovieDetails/67037).
+- d07f06 — Бойцовая рыбка: 94 мин. [Источник](https://www.criterion.com/films/28993-rumble-fish).
+- d08f01 — Персона: 83 мин. [Источник](https://www.criterion.com/films/28491-persona).
+- d08f02 — Седьмая печать: 97 мин. [Источник](https://www.criterion.com/films/173-the-seventh-seal).
+- d08f03 — Земляничная поляна: 92 мин. [Источник](https://www.criterion.com/films/175-wild-strawberries).
+- d08f04 — Фанни и Александр: 188 мин. [Источник](https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version).
+- d08f05 — Шёпоты и крики: 91 мин. [Источник](https://www.criterion.com/films/237-cries-and-whispers).
+- d08f06 — Осенняя соната: 93 мин. [Источник](https://www.criterion.com/films/605-autumn-sonata).
+- d09f01 — Восемь с половиной: 138 мин. [Источник](https://www.criterion.com/films/150-8-1-2).
+- d09f02 — Сладкая жизнь: 174 мин. [Источник](https://www.criterion.com/films/28619-la-dolce-vita).
+- d09f03 — Ночи Кабирии: 117 мин. [Источник](https://www.criterion.com/films/243-nights-of-cabiria).
+- d09f04 — Амаркорд: 123 мин. [Источник](https://www.criterion.com/films/208-amarcord).
+- d09f05 — Дорога: 108 мин. [Источник](https://www.criterion.com/films/185-la-strada).
+- d09f06 — Джульетта и духи: 145 мин. [Источник](https://www.criterion.com/films/689-juliet-of-the-spirits).
+
+### Версии
+
+- d07f01: BFI указывает 175 минут; [AFI](https://catalog.afi.com/Catalog/moviedetails/54023) — 175–177.
+- d07f02: 146 минут — первоначальная 70-мм копия 1979 года по AFI; 35-мм копия с титрами около 150 минут. Позже появилась версия Redux; длительность не относится к ней.
+- d07f04: 200 минут — значение AFI; источник также сообщает о сокращённой на 18 минут версии.
+- d08f04: 188 минут — кинотеатральная версия Criterion; [телевизионная версия](https://www.criterion.com/films/626-fanny-and-alexander-television-version) — 312 минут.
