@@ -88,3 +88,26 @@
 - d07f02: 146 минут — первоначальная 70-мм копия 1979 года по AFI; 35-мм копия с титрами около 150 минут. Позже появилась версия Redux; длительность не относится к ней.
 - d07f04: 200 минут — значение AFI; источник также сообщает о сокращённой на 18 минут версии.
 - d08f04: 188 минут — кинотеатральная версия Criterion; [телевизионная версия](https://www.criterion.com/films/626-fanny-and-alexander-television-version) — 312 минут.
+
+## Продолжительности: Линч, Спилберг, Нолан и «Психо»
+
+Проверены только продолжительность и идентификация в перечисленных источниках; остальные поля остаются предварительными.
+
+- d06f01 — Психо: 109 минут. [Источник](https://player.bfi.org.uk/rentals/collection/oscars-best-supporting-role).
+- d10f01 — Малхолланд Драйв: 146 минут. [Источник](https://www.criterion.com/films/28050-mulholland-dr).
+- d10f02 — Синий бархат: 120 минут. [Источник](https://www.criterion.com/films/29144-blue-velvet).
+- d10f03 — Голова-ластик: 89 минут. [Источник](https://www.criterion.com/films/28382-eraserhead).
+- d10f04 — Человек-слон: 123 минут. [Источник](https://www.criterion.com/films/29677-the-elephant-man).
+- d10f05 — Шоссе в никуда: 134 минут. [Источник](https://www.criterion.com/films/31590-lost-highway).
+- d10f06 — Внутренняя империя: 180 минут. [Источник](https://www.criterion.com/films/30077-inland-empire).
+- d11f01 — Челюсти: 124 минут. [Источник](https://catalog.afi.com/Film/55193-JAWS).
+- d11f02 — Список Шиндлера: 185 минут. [Источник](https://catalog.afi.com/Catalog/MovieDetails/67172).
+- d11f03 — Парк юрского периода: 127 минут. [Источник](https://catalog.afi.com/Catalog/moviedetails/67200).
+- d11f04 — Индиана Джонс: В поисках утраченного ковчега: 115 минут. [Источник](https://catalog.afi.com/Catalog/moviedetails/67250).
+- d12f01 — Помни: 113 минут. [Источник](https://www.bfi.org.uk/film/6e9da010-7145-59ea-98f9-3c6fcb142b1f/memento).
+- d12f02 — Престиж: 130 минут. [Источник](https://catalog.afi.com/Catalog/moviedetails/63992).
+- d12f03 — Интерстеллар: 169 минут. [Источник](https://catalog.afi.com/Film/70145-INTERSTELLAR).
+- d12f04 — Начало: 148 минут. [Источник](https://www.bfi.org.uk/film/7666aa5b-0e00-50bc-8814-0028479d8767/inception).
+- d12f05 — Тёмный рыцарь: 152 минут. [Источник](https://catalog.afi.com/Film/55498-THE-DARKKNIGHT).
+
+Расхождения: d06f01 — BFI указывает 109 минут, [AFI](https://catalog.afi.com/Catalog/MovieDetails/53260) приводит 108–109; d12f01 — BFI 113, [AFI](https://catalog.afi.com/Film/53928-MEMENTO) 113 или 116 минут; d12f04 — BFI 148, [AFI](https://catalog.afi.com/Catalog/moviedetails/66167) 147–149 минут. Причины расхождений не установлены.
