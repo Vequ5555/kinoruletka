@@ -427,3 +427,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d13f06: [карточка](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=dune-part-one-imax), [контекст](https://www.bfi.org.uk/features/strange-new-worlds-craft-denis-villeneuve).
 
 Страна d13f03 дополнена Испанией по [BFI IMAX](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=blade-runner-2049-imax-3d). Страны других картин: [Прибытие](https://www.bfi.org.uk/film/e78648fa-23dd-5ed1-aaac-6c03ffb18ef7/arrival), [Пленницы](https://www.bfi.org.uk/news/bfi-players-september-2025-line), [Убийца](https://www.festival-cannes.com/en/f/sicario/), [Дюна](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=dune-part-one-imax).
+
+## Вонг Карвай: d14f01–d14f06
+
+Названия, годы, режиссура и сюжеты сверены по каталогам; жанры и интерпретации — редакторские. Продолжительности сохранены.
+
+- d14f01: [каталог](https://www.criterion.com/films/198-in-the-mood-for-love), [контекст](https://www.bfi.org.uk/film/1b8c3bcb-842f-5ba2-90ee-39b6b40b7c21/in-the-mood-for-love).
+- d14f02: [каталог](https://www.criterion.com/films/226-chungking-express), [контекст](https://www.bfi.org.uk/features/wong-kar-wai-music-soundtracks).
+- d14f03: [каталог](https://www.criterion.com/films/28847-2046), [контекст](https://www.bfi.org.uk/film/e19fc37c-7ebd-55c0-b4a6-30b45e9765d7/2046).
+- d14f04: [каталог](https://www.criterion.com/films/28842-fallen-angels), [контекст](https://player.bfi.org.uk/rentals/film/watch-fallen-angels-1995-online).
+- d14f05: [каталог](https://www.criterion.com/films/28843-happy-together), [контекст](https://www.festival-cannes.com/en/retrospective/1997/awards/).
+- d14f06: [каталог](https://www.criterion.com/films/29477-days-of-being-wild), [контекст](https://www.bfi.org.uk/features/wong-kar-wai-music-soundtracks).
+
+Страны d14f01 и d14f03 дополнены по [BFI: Любовное настроение](https://www.bfi.org.uk/film/1b8c3bcb-842f-5ba2-90ee-39b6b40b7c21/in-the-mood-for-love) и [BFI: 2046](https://www.bfi.org.uk/film/e19fc37c-7ebd-55c0-b4a6-30b45e9765d7/2046); Criterion использует более краткие обозначения.
