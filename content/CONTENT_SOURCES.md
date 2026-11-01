@@ -587,3 +587,10 @@ d25f01: каталог BFI включает США наряду с Испани�
 - d10f05: год выхода 1997 сохранён по [AFI](https://catalog.afi.com/Film/61026-LOST-HIGHWAY) и [Criterion](https://www.criterion.com/films/31590-lost-highway); каталог BFI указывает 1996.
 - d22f04: 1947 сохранён как год французского выпуска, указанный [фестивалем Lumière](https://2018.festival-lumiere.org/manifestations/la-dame-de-shanghai.html); [TCM](https://www.tcm.com/articles/89258/the-critics-corner-3-12-the-lady-from-shanghai) отдельно отмечает американский выпуск 1948 года, которым датирует фильм AFI.
 - d22f05: год изменён с 1965 на 1966: [Folger Shakespeare Library](https://www.folger.edu/blogs/shakespeare-and-beyond/the-tragedy-of-chimes-at-midnight/) различает съёмки в 1965 и официальную премьеру в Каннах в 1966; [Академия](https://www.oscars.org/events/essential-orson-welles-chimes-midnight) датирует фильм 1966 годом. BFI и TCM также используют 1965.
+
+## Уточнение стран производства
+
+- d22f06: [Senses of Cinema](https://www.sensesofcinema.com/2006/cteq/trial/) и [Northwest Film Forum](https://nwfilmforum.org/films/the-trial/) перечисляют Францию, Италию, ФРГ и Югославию; Югославия добавлена в каталог. [Criterion](https://www.criterion.com/channel/films?decade=1960s) перечисляет Францию, Италию и Югославию.
+- d24f03: [Film Movement](https://filmmovement.com/press/film/to-live) и [кинофестиваль в Генте](https://www.filmfestival.be/en/film/huozhe-to-live) указывают Китай и Гонконг; сохранены обе территории. Каннский каталог указывает Гонконг.
+- d24f05: [AFI Fest](https://fest.afi.com/2004/galas-2004/house-of-flying-daggers-shi-mian-mau-fu/) и [австралийский музей ACMI](https://www.acmi.net.au/works/61090--house-of-flying-daggers/) указывают Китай и Гонконг.
+- d24f06: [каталог Дурбанского кинофестиваля 2007](https://ccadiff.ukzn.ac.za/wp-content/uploads/DIFF2007_cat.pdf) указывает Гонконг и Китай.

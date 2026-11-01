@@ -2837,7 +2837,7 @@
         "title": "Процесс",
         "year": 1962,
         "original_title": "Le Procès",
-        "country": "Франция / Италия / ФРГ",
+        "country": "Франция / Италия / ФРГ / Югославия",
         "genres": [
           "драма",
           "триллер"
@@ -2845,9 +2845,11 @@
         "minutes": 118,
         "synopsis": "Однажды утром служащий Йозеф К. узнаёт, что арестован, хотя ему не объясняют, в чём он обвиняется. Он продолжает ходить на работу и пытается найти защиту, сталкиваясь с чиновниками, адвокатом и запутанными правилами суда. Поиски ответа постепенно охватывают всю его жизнь.",
         "significance": "В экранизации Кафки Уэллс использует огромные пространства, резкие ракурсы и тревожную смену сцен, чтобы передать безличную власть бюрократии. Фильм переносит литературный кошмар на экран, сохраняя неопределённость обвинения.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
-          "https://www.criterion.com/films/28115-the-trial"
+          "https://www.criterion.com/films/28115-the-trial",
+          "https://www.sensesofcinema.com/2006/cteq/trial/",
+          "https://nwfilmforum.org/films/the-trial/"
         ]
       }
     ],
@@ -3035,9 +3037,11 @@
         "minutes": 129,
         "synopsis": "Фугуй из состоятельной семьи теряет имущество из-за пристрастия к азартным играм. Вместе с женой Цзячжэнь он пытается заново устроить жизнь, пока Китай переживает гражданскую войну и последующие политические кампании. Исторические перемены отражаются на судьбе семьи и её повседневных заботах.",
         "significance": "Семейная сага показывает события китайской истории через опыт обычных людей. В Каннах фильм получил Гран-при жюри, а Гэ Ю — приз за мужскую роль; режиссёр сочетает масштаб исторического повествования с частной жизнью героев.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
-          "https://www.festival-cannes.com/en/f/huozhe/"
+          "https://www.festival-cannes.com/en/f/huozhe/",
+          "https://filmmovement.com/press/film/to-live",
+          "https://www.filmfestival.be/en/film/huozhe-to-live"
         ]
       },
       {
@@ -3072,10 +3076,12 @@
         "minutes": 119,
         "synopsis": "В эпоху Тан правительственные чиновники разыскивают участников подпольной организации «Дом летающих кинжалов». Капитан Цзинь знакомится с танцовщицей Мэй, которую подозревают в связи с повстанцами. Его поручение сблизиться с ней превращает путешествие через леса и горы в опасную проверку доверия.",
         "significance": "Чжан Имоу соединяет традицию уся с романтической интригой и тщательно поставленными поединками. Контрастные цвета, движение камеры и смена природных ландшафтов превращают преследование в историю о выборе между обязанностью и чувством.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
           "https://www.festival-cannes.com/en/f/shi-mian-mai-fu-house-of-flying-daggers/",
-          "https://www.sonyclassics.com/houseofflyingdaggers/_media/presskit.pdf"
+          "https://www.sonyclassics.com/houseofflyingdaggers/_media/presskit.pdf",
+          "https://fest.afi.com/2004/galas-2004/house-of-flying-daggers-shi-mian-mau-fu/",
+          "https://www.acmi.net.au/works/61090--house-of-flying-daggers/"
         ]
       },
       {
@@ -3092,10 +3098,11 @@
         "minutes": 114,
         "synopsis": "Император возвращается во дворец накануне праздника хризантем, где его ждут императрица и три сына. За пышными церемониями скрывается напряжение между членами семьи. По мере приближения торжества придворные отношения становятся всё опаснее, а каждый из близких к трону преследует свои цели.",
         "significance": "Дворцовая драма соединяет семейный конфликт с масштабной исторической постановкой. Декорации, костюмы и ритуалы подчёркивают разрыв между внешним великолепием двора и борьбой за власть внутри императорской семьи.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
           "https://www.classification.gov.au/titles/curse-golden-flower",
-          "https://www.sonyclassics.com/awards/curse.html"
+          "https://www.sonyclassics.com/awards/curse.html",
+          "https://ccadiff.ukzn.ac.za/wp-content/uploads/DIFF2007_cat.pdf"
         ]
       }
     ],
