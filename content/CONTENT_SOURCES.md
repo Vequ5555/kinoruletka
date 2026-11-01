@@ -636,3 +636,10 @@ d17f01: 161 минута относится к копии показа Акад�
 - d01f04: [Criterion](https://www.criterion.com/films/597-yojimbo) — 1961, Япония, 110 минут, противоборство кланов и ремейк Леоне.
 - d01f05: [Criterion](https://www.criterion.com/films/754-ran) — 1985, 160 минут и связь с «Королём Лиром»; [CNC](https://www.cnc.fr/professionnels/visas-et-classification/58720) — французское участие. Cinémathèque française приводит 163 минуты; выбрано издание Criterion.
 - d01f06: [Criterion](https://www.criterion.com/films/735-throne-of-blood) — 1957, Япония, 109 минут, «Макбет» и элементы театра но; [Japan Foundation](https://nd.jpf.go.jp/events/event/throne-of-blood/) — оригинальное название.
+
+## Повторная сверка Тарковского d02f01–d02f04
+
+- d02f01: [Criterion](https://www.criterion.com/films/28150-stalker) подтверждает режиссёра, СССР, 1979 год, 161 минуту выбранного издания и маршрут героев; трактовка стиля — редакторская.
+- d02f02: [Criterion](https://www.criterion.com/films/553-solaris) — СССР, 1972 год, 166 минут, персонажа Криса и источник в романе Лема; значение фильма сформулировано как редакторское наблюдение.
+- d02f03: [Criterion](https://www.criterion.com/films/28894-mirror) — СССР, 1975 год, 106 минут, сочетание воспоминаний, снов и хроники.
+- d02f04: [Criterion](https://www.criterion.com/films/300-andrei-rublev) — СССР, 1966 год по каталогу, иконописец, эпизодическая структура и выбранная 183-минутная версия; первоначальный монтаж «Страсти по Андрею» длится 205 минут. 1966 — каталожная датировка фильма, а не утверждение о премьере 183-минутной копии.
