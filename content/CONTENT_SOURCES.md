@@ -111,3 +111,25 @@
 - d12f05 — Тёмный рыцарь: 152 минут. [Источник](https://catalog.afi.com/Film/55498-THE-DARKKNIGHT).
 
 Расхождения: d06f01 — BFI указывает 109 минут, [AFI](https://catalog.afi.com/Catalog/MovieDetails/53260) приводит 108–109; d12f01 — BFI 113, [AFI](https://catalog.afi.com/Film/53928-MEMENTO) 113 или 116 минут; d12f04 — BFI 148, [AFI](https://catalog.afi.com/Catalog/moviedetails/66167) 147–149 минут. Причины расхождений не установлены.
+
+## Продолжительности: Вонг Карвай, Пон Джун-хо и Пак Чхан-ук
+
+Указаны продолжительности конкретных изданий Criterion, кинопоказа BFI или каннских показов; остальные поля предварительных карточек не считаются проверенными.
+
+- d14f01 — Любовное настроение: 98 мин. [Источник](https://www.criterion.com/films/198-in-the-mood-for-love).
+- d14f02 — Чунгкингский экспресс: 102 мин. [Источник](https://www.criterion.com/films/226-chungking-express).
+- d14f03 — 2046: 128 мин. [Источник](https://www.criterion.com/films/28847-2046).
+- d14f04 — Падшие ангелы: 99 мин. [Источник](https://www.criterion.com/films/28842-fallen-angels).
+- d14f05 — Счастливы вместе: 96 мин. [Источник](https://www.criterion.com/films/28843-happy-together).
+- d14f06 — Дикие дни: 95 мин. [Источник](https://www.criterion.com/films/29477-days-of-being-wild).
+- d15f01 — Воспоминания об убийстве: 131 мин. [Источник](https://www.criterion.com/films/31458-memories-of-murder).
+- d15f02 — Паразиты: 131 мин. [Источник](https://www.criterion.com/films/30619-parasite).
+- d15f03 — Сквозь снег: 126 мин. [Источник](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=snowpiercer-2025).
+- d15f04 — Мать: 129 мин. [Источник](https://www.festival-cannes.com/en/f/mother-2/).
+- d15f06 — Окча: 118 мин. [Источник](https://www.festival-cannes.com/en/f/okja/).
+- d16f01 — Олдбой: 119 мин. [Источник](https://www.festival-cannes.com/en/f/old-boy/).
+- d16f02 — Служанка: 145 мин. [Источник](https://www.festival-cannes.com/en/f/mademoiselle/).
+- d16f03 — Решение уйти: 138 мин. [Источник](https://www.festival-cannes.com/en/f/heojil-kyolshim/).
+- d16f06 — Жажда: 133 мин. [Источник](https://www.festival-cannes.com/en/f/bak-jwi/).
+
+d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-and-sound/features/blockage-line-snowpiercer-vs-scissorhands) сообщает о споре по поводу сокращённого монтажа для проката, но не устанавливает его конечную длительность.
