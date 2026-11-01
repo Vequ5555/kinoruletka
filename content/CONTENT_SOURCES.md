@@ -553,3 +553,16 @@ d22f04: AFI датирует фильм 1948 годом, в каталоге с�
 - d23f04: [страница фильма](https://www.criterion.com/films/875-early-summer).
 - d23f05: [страница фильма](https://player.bfi.org.uk/subscription/film/watch-floating-weeds-1959-online).
 - d23f06: [страница фильма](https://www.criterion.com/films/624-good-morning).
+
+## Чжан Имоу: d24f01–d24f06
+
+Проверены идентификация и сюжет по указанным источникам; жанры и толкования — редакторские. Продолжительности сохранены по прежним источникам.
+
+- d24f01: [источник](https://www.bfi.org.uk/film/d4bb41b5-d42a-5555-8430-d875e297d329/raise-the-red-lantern); verified.
+- d24f02: [источник](https://www.filmlinc.org/films/hero/); verified.
+- d24f03: [источник](https://www.festival-cannes.com/en/f/huozhe/); partial.
+- d24f04: [источник](https://www.filmlinc.org/films/nyff-90-ju-dou/); verified.
+- d24f05: [источник](https://www.sonyclassics.com/houseofflyingdaggers/_media/presskit.pdf); partial.
+- d24f06: [источник](https://www.sonyclassics.com/awards/curse.html); partial.
+
+d24f04: [Каннский фестиваль](https://www.festival-cannes.com/en/f/ju-dou/) и [BFI](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/all-voters/dina-iordanova) называют Ян Фэнляна сорежиссёром; Film at Lincoln Center указывает только Чжана. d24f03, d24f05 и d24f06 оставлены частичными до независимой проверки стран производства; отдельные страницы Канн доступны в поисковом индексе, но при прямом открытии возвращали 403.
