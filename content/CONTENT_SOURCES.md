@@ -466,3 +466,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d16f06: [источник](https://www.festival-cannes.com/en/f/bak-jwi/), [контекст](https://www.festival-cannes.com/en/2009/jury-prize-thirst-and-fish-tank/).
 
 Награды трёх фильмов сверены по [Каннскому фестивалю](https://www.festival-cannes.com/en/p/chan-wook-park/); трилогия и годы — по [BFI](https://www.bfi.org.uk/sight-and-sound/reviews/film-week-handmaiden-park-chan-wooks-intricate-erotic-intrigue).
+
+## Серджо Леоне: d17f01–d17f06
+
+Идентификация, сюжет и художественный контекст сверены с указанными источниками; жанры и интерпретации редакторские. Продолжительности сохранены по ранее выбранным источникам.
+
+- d17f01: [каталог](https://www.oscars.org/events/good-bad-and-ugly), [контекст](https://www.bfi.org.uk/film/48f84a16-0530-544f-b591-0d564249dd43/the-good-the-bad-and-the-ugly); статус partial.
+- d17f02: [каталог](https://www.bfi.org.uk/film/f3d8c1dc-2761-5fdc-ab54-9b054daec0ee/once-upon-a-time-in-the-west), [контекст](https://catalog.afi.com/Film/21519-ONCE-UPONATIMEINTHEWEST); статус verified.
+- d17f03: [каталог](https://www.bfi.org.uk/film/c654a19e-b702-5e3f-80f8-a2a140459bdb/for-a-few-dollars-more), [контекст](https://www.festival-cannes.com/en/f/per-qualche-dollaro-in-piu/); статус verified.
+- d17f04: [каталог](https://www.bfi.org.uk/film/e78f277e-aac8-5295-a9e4-886375623d2e/fistful-of-dollars), [контекст](https://www.bfi.org.uk/lists/great-action-film-every-year-1924-now); статус verified.
+- d17f05: [каталог](https://catalog.afi.com/Film/57162-ONCE-UPONATIMEINAMERICA), [контекст](https://www.bfi.org.uk/lists/10-great-really-long-films); статус verified.
+- d17f06: [каталог](https://catalog.afi.com/Film/54460-DUCK-YOU-SUCKER), [контекст](https://www.bfi.org.uk/features/fistful-dynamite-duck-you-sucker-sergio-leone); статус verified.
+
+Для d17f01 BFI указывает Италию, исходный каталог — Италию, Испанию и ФРГ; продолжительность 161 мин отличается от 178-минутного [показа AFI](https://silver.afi.com/movies/detail/0100002555/). Карточка остаётся частичной до уточнения стран и версии. Для d17f02 AFI указывает 1969 год, BFI — 1968; для d17f05 BFI указывает 1983, AFI и другие материалы BFI — 1984; в обоих случаях сохранён исходный год.
