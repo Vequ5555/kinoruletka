@@ -271,3 +271,13 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d13 — Дени Вильнёв: [биография](https://cfe.tiff.net/content/bios/denis-villeneuve), [стиль и контекст](https://www.festival-cannes.com/en/p/denis-villeneuve/), [награды](https://www.oscars.org/oscars/ceremonies/2017).
 - d14 — Вонг Карвай: [биография](https://www.biff.kr/eng/html/archive/arc_history_view.asp?m_idx=259&pyear=1997), [стиль и контекст](https://www.bfi.org.uk/features/where-begin-with-wong-kar-wai), [награды](https://www.festival-cannes.com/en/p/kar-wai-wong/).
 - d15 — Пон Джун-хо: [биография](https://www.festival-cannes.com/en/p/joon-ho-bong-2/), [стиль и контекст](https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground), [награды](https://www.oscars.org/oscars/ceremonies/2020/R).
+
+## Профили d16–d20 — проверка и редактура
+
+Биография и указанные фильмы и награды сверены по ссылкам. Анализ стиля — редакторский; влияние описано в пределах приведённых источников. У Леоне персональные конкурсные награды не установлены и не выдуманы.
+
+- d16 — Пак Чхан-ук: [биография](https://www.koreanfilm.or.kr/eng/films/index/peopleView.jsp?peopleCd=10029381), [стиль и контекст](https://www.festival-cannes.com/en/press/press-releases/park-chan-wook-president-of-the-jury-of-the-79th-festival-de-cannes/), [награды и карьера](https://www.festival-cannes.com/en/p/chan-wook-park/).
+- d17 — Серджо Леоне: [биография](https://www.tcm.com/articles/191910/sergio-leone-profile), [стиль и контекст](https://www.oscars.org/collection-highlights/sergio-leone), [награды и карьера](https://www.oscars.org/events/good-bad-and-ugly).
+- d18 — Ридли Скотт: [биография](https://www.bfi.org.uk/features/where-begin-with-ridley-scott), [стиль и контекст](https://www.bfi.org.uk/film/ec064a2a-f7a8-536a-afa2-ed076aad151f/blade-runner), [награды и карьера](https://press.oscars.org/news/academy-honor-glenn-close-floyd-norman-ridley-scott-and-christine-vachon-pamela-koffler-2026).
+- d19 — Дэвид Финчер: [биография](https://goldenglobes.com/person/david-fincher/), [стиль и контекст](https://www.bfi.org.uk/lists/10-great-crime-epics), [награды и карьера](https://www.oscars.org/sites/oscars/files/93rd_oscars_noms_factsheet.pdf).
+- d20 — Пол Томас Андерсон: [биография](https://www.tcm.com/articles/featured-directors/022052/paul-thomas-anderson-biography), [стиль и контекст](https://www.bfi.org.uk/film/a5cbe0af-dae7-5b36-90f6-2212137dcc65/magnolia), [награды и карьера](https://www.berlinale.de/media/download/presse/pressemitteilungen/58_berlinale/68_pressrelease_five_oscars_for_berlinale_stars_and_films.pdf).
