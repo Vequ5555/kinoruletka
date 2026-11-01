@@ -453,3 +453,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d15f06: [каталог](https://www.festival-cannes.com/en/f/okja/), [контекст](https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground); статус verified.
 
 Для d15f05 KOFIC указывает Южную Корею, показ BFI — Южную Корею и Японию; источники также расходятся на минуту. Исходные страна и продолжительность сохранены, карточка частично проверена до уточнения. Для d15f03 BFI IMAX указывает Южную Корею и Чехию, тогда как BFI Player перечисляет только Корею.
+
+## Пак Чхан-ук: d16f01–d16f06
+
+Режиссура, годы, названия и основные события сверены по указанным каталогам, жанры и трактовки — редакторские. Продолжительности сохранены по предыдущим источникам.
+
+- d16f01: [источник](https://www.festival-cannes.com/en/f/old-boy/), [контекст](https://www.bfi.org.uk/features/where-begin-park-chan-wook).
+- d16f02: [источник](https://www.festival-cannes.com/en/f/mademoiselle/), [контекст](https://www.bfi.org.uk/features/where-begin-park-chan-wook).
+- d16f03: [источник](https://www.festival-cannes.com/en/f/heojil-kyolshim/), [контекст](https://www.festival-cannes.com/en/2022/heojil-kyolshim-decision-to-leave-romantic-investigations/).
+- d16f04: [источник](https://www.bfi.org.uk/lists/10-great-modern-south-korean-films), [контекст](https://www.criterion.com/current/posts/7170-this-side-of).
+- d16f05: [источник](https://player.bfi.org.uk/subscription/film/watch-lady-vengeance-2005-online), [контекст](https://www.festival-cannes.com/en/p/park-chan-wook/).
+- d16f06: [источник](https://www.festival-cannes.com/en/f/bak-jwi/), [контекст](https://www.festival-cannes.com/en/2009/jury-prize-thirst-and-fish-tank/).
+
+Награды трёх фильмов сверены по [Каннскому фестивалю](https://www.festival-cannes.com/en/p/chan-wook-park/); трилогия и годы — по [BFI](https://www.bfi.org.uk/sight-and-sound/reviews/film-week-handmaiden-park-chan-wooks-intricate-erotic-intrigue).
