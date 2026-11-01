@@ -53,13 +53,17 @@ public class MainActivity extends Activity {
     private class Backup {
         @JavascriptInterface public void haptic() { runOnUiThread(() -> web.performHapticFeedback(android.view.HapticFeedbackConstants.CONFIRM)); }
         @JavascriptInterface public void exportJson(String data) {
-            exportData = data;
-            Intent i = new Intent(Intent.ACTION_CREATE_DOCUMENT).addCategory(Intent.CATEGORY_OPENABLE).setType("application/json").putExtra(Intent.EXTRA_TITLE,"directors-roulette-backup.json");
-            startActivityForResult(i, 1);
+            runOnUiThread(() -> {
+                exportData = data;
+                Intent i = new Intent(Intent.ACTION_CREATE_DOCUMENT).addCategory(Intent.CATEGORY_OPENABLE).setType("application/json").putExtra(Intent.EXTRA_TITLE,"directors-roulette-backup.json");
+                startActivityForResult(i, 1);
+            });
         }
         @JavascriptInterface public void importJson() {
-            Intent i = new Intent(Intent.ACTION_OPEN_DOCUMENT).addCategory(Intent.CATEGORY_OPENABLE).setType("application/json");
-            startActivityForResult(i, 2);
+            runOnUiThread(() -> {
+                Intent i = new Intent(Intent.ACTION_OPEN_DOCUMENT).addCategory(Intent.CATEGORY_OPENABLE).setType("application/json");
+                startActivityForResult(i, 2);
+            });
         }
     }
     @Override protected void onActivityResult(int request, int result, Intent data) {
