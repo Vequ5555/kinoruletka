@@ -579,3 +579,11 @@ d24f04: [Каннский фестиваль](https://www.festival-cannes.com/en
 - d25f06: [источник](https://www.criterion.com/films/35272-nightmare-alley); verified.
 
 d25f01: каталог BFI включает США наряду с Испанией и Мексикой, а [программа BFI](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=pans-labyrinth-2d-imax) указывает только Испанию и Мексику. d25f04: классификацию стран необходимо проверить независимым каталогом. d25f06: Criterion различает кинотеатральную версию 150 минут и расширенную чёрно-белую версию 2025 года 159 минут.
+
+## Уточнение дат и производства
+
+- d05f05: [AFI](https://catalog.afi.com/Film/67056-THE-KING-OF-COMEDY) документирует перенос выпуска на 1983 год и американский прокат 18 февраля; [каталог BFI](https://www.bfi.org.uk/film/ce65bbff-eabf-53ec-978a-9cf80ad07872/the-king-of-comedy) также указывает 1983. Поле года исправлено на год выхода; отдельные статьи BFI используют 1982.
+- d10f04: полная карточка [Criterion](https://www.criterion.com/films/29677-the-elephant-man) прямо указывает обе страны — Великобританию и США; сохранённое значение подтверждено. Более короткая запись BFI перечисляет только США.
+- d10f05: год выхода 1997 сохранён по [AFI](https://catalog.afi.com/Film/61026-LOST-HIGHWAY) и [Criterion](https://www.criterion.com/films/31590-lost-highway); каталог BFI указывает 1996.
+- d22f04: 1947 сохранён как год французского выпуска, указанный [фестивалем Lumière](https://2018.festival-lumiere.org/manifestations/la-dame-de-shanghai.html); [TCM](https://www.tcm.com/articles/89258/the-critics-corner-3-12-the-lady-from-shanghai) отдельно отмечает американский выпуск 1948 года, которым датирует фильм AFI.
+- d22f05: год изменён с 1965 на 1966: [Folger Shakespeare Library](https://www.folger.edu/blogs/shakespeare-and-beyond/the-tragedy-of-chimes-at-midnight/) различает съёмки в 1965 и официальную премьеру в Каннах в 1966; [Академия](https://www.oscars.org/events/essential-orson-welles-chimes-midnight) датирует фильм 1966 годом. BFI и TCM также используют 1965.
