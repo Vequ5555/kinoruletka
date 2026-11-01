@@ -31,6 +31,7 @@ public class MainActivity extends Activity {
         web.getSettings().setAllowFileAccess(false);
         web.getSettings().setAllowContentAccess(false);
         web.addJavascriptInterface(new Backup(), "AndroidBackup");
+        web.setWebChromeClient(new android.webkit.WebChromeClient());
         web.setWebViewClient(new WebViewClient() {
             @Override public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) { return loader.shouldInterceptRequest(request.getUrl()); }
             @Override public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) { return true; }
@@ -39,6 +40,7 @@ public class MainActivity extends Activity {
         web.loadUrl("https://appassets.androidplatform.net/assets/index.html");
     }
     private class Backup {
+        @JavascriptInterface public void haptic() { runOnUiThread(() -> web.performHapticFeedback(android.view.HapticFeedbackConstants.CONFIRM)); }
         @JavascriptInterface public void exportJson(String data) {
             exportData = data;
             Intent i = new Intent(Intent.ACTION_CREATE_DOCUMENT).addCategory(Intent.CATEGORY_OPENABLE).setType("application/json").putExtra(Intent.EXTRA_TITLE,"directors-roulette-backup.json");
