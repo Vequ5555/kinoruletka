@@ -594,3 +594,11 @@ d25f01: каталог BFI включает США наряду с Испани�
 - d24f03: [Film Movement](https://filmmovement.com/press/film/to-live) и [кинофестиваль в Генте](https://www.filmfestival.be/en/film/huozhe-to-live) указывают Китай и Гонконг; сохранены обе территории. Каннский каталог указывает Гонконг.
 - d24f05: [AFI Fest](https://fest.afi.com/2004/galas-2004/house-of-flying-daggers-shi-mian-mau-fu/) и [австралийский музей ACMI](https://www.acmi.net.au/works/61090--house-of-flying-daggers/) указывают Китай и Гонконг.
 - d24f06: [каталог Дурбанского кинофестиваля 2007](https://ccadiff.ukzn.ac.za/wp-content/uploads/DIFF2007_cat.pdf) указывает Гонконг и Китай.
+
+## Выбранные версии и расхождения продолжительности
+
+- d04f01: выбраны 149 минут [показа BFI](https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=2001aspaceodyssey2019). [Каталог BFI](https://www.bfi.org.uk/film/cefccdb2-b558-5623-9c17-72b4be7bd4c1/2001-a-space-odyssey) указывает 141 минуту; причина расхождения не установлена, утверждать различие монтажа нельзя.
+- d05f01: выбраны 114 минут по [BBFC](https://www.bbfc.co.uk/release/taxi-driver-q29sbgvjdglvbjpwwc0yody1ntc) (113 минут 35 секунд) и [фестивалю Сан-Себастьяна](https://www.sansebastianfestival.com/1976/sections_and_films/informative/7/240028/in). AFI указывает 112 минут; причина расхождения не установлена.
+- d07f02: сохранены 146 минут первоначальной 70-мм прокатной копии 1979 года. [AFI](https://catalog.afi.com/Catalog/moviedetails/67464) объясняет, что 35-мм копия с дополнительными титрами длилась около 150 минут; позднее существовали Redux и Final Cut.
+- d17f01: сохранена 161 минута по [показу Академии](https://www.oscars.org/events/good-bad-and-ugly); [AFI Silver](https://silver.afi.com/movies/detail/0100002555/) описывает другую копию длительностью 179 минут и указывает Италию, Испанию и ФРГ. Называть копию Академии конкретным монтажом без дополнительного источника нельзя.
+- d18f02: выбрана Final Cut 2007 года, 117 минут по [BFI IMAX](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=blade-runner-final-cut-imax); [BFI](https://www.bfi.org.uk/features/blade-runner) различает её с более ранними версиями. Другая программа BFI округляет ту же Final Cut до 118 минут.

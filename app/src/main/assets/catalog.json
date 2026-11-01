@@ -379,13 +379,14 @@
           "фантастика",
           "драма"
         ],
-        "minutes": 141,
+        "minutes": 149,
         "synopsis": "На заре человечества загадочный чёрный монолит появляется рядом со стаей древних предков людей. Спустя тысячелетия похожий объект находят на Луне, и к Юпитеру отправляется экспедиция. Астронавты полагаются на бортовой компьютер HAL 9000, пока миссия ведёт их к границам известного мира.",
         "significance": "Кубрик и писатель Артур Кларк создали научную фантастику, в которой история разума рассказана прежде всего средствами изображения и музыки. По оценке BFI, фильм изменил экранное изображение космоса; монтажный переход от кости к космическому аппарату соединяет разные эпохи.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
           "https://www.bfi.org.uk/film/cefccdb2-b558-5623-9c17-72b4be7bd4c1/2001-a-space-odyssey",
-          "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=2001aspaceodyssey2022"
+          "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=2001aspaceodyssey2022",
+          "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=2001aspaceodyssey2019"
         ]
       },
       {
@@ -512,14 +513,16 @@
           "драма",
           "триллер"
         ],
-        "minutes": 112,
+        "minutes": 114,
         "synopsis": "Ветеран Вьетнама Трэвис Бикл страдает бессонницей и устраивается ночным таксистом в Нью-Йорке. Долгие часы за рулём усиливают его отчуждение и недоверие к окружающим. Попытки завязать отношения и найти своё место в городе постепенно уступают навязчивому желанию самому восстановить справедливость.",
         "significance": "Скорсезе и сценарист Пол Шредер показали город через восприятие одинокого героя: ночные улицы, неон и музыка Бернарда Херрманна передают его тревожное состояние. В 1976 году фильм получил «Золотую пальмовую ветвь» Каннского фестиваля.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
           "https://www.bfi.org.uk/film/d964bfb7-729b-5181-85f8-35b1bd3a21a3/taxi-driver",
           "https://www.festival-cannes.com/en/retrospective/1976/awards/",
-          "https://catalog.afi.com/Catalog/MovieDetails/67969"
+          "https://catalog.afi.com/Catalog/MovieDetails/67969",
+          "https://www.bbfc.co.uk/release/taxi-driver-q29sbgvjdglvbjpwwc0yody1ntc",
+          "https://www.sansebastianfestival.com/1976/sections_and_films/informative/7/240028/in"
         ]
       },
       {
@@ -804,11 +807,12 @@
         "minutes": 146,
         "synopsis": "Во время войны во Вьетнаме капитан Уиллард получает секретное поручение: подняться по реке в Камбоджу и найти полковника Курца, вышедшего из-под контроля командования. Вместе с экипажем патрульного катера он проходит через цепь военных операций и постепенно приближается к лагерю полковника.",
         "significance": "Свободно переосмыслив мотивы «Сердца тьмы» Джозефа Конрада, Коппола построил военную одиссею как путешествие по всё более тревожному ландшафту. Незавершённая версия фильма разделила главный приз Каннского фестиваля в 1979 году; позднее режиссёр подготовил другие монтажи.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
           "https://catalog.afi.com/Film/67464-APOCALYPSE-NOW",
           "https://www.festival-cannes.com/en/retrospective/1979/palmares/",
-          "https://www.bfi.org.uk/lists/10-great-vietnam-war-films"
+          "https://www.bfi.org.uk/lists/10-great-vietnam-war-films",
+          "https://catalog.afi.com/Catalog/moviedetails/67464"
         ]
       },
       {
@@ -2089,10 +2093,11 @@
         "minutes": 161,
         "synopsis": "Во время Гражданской войны в США трое стрелков оказываются вовлечены в поиски спрятанного золота. Каждый знает лишь часть необходимых сведений, поэтому соперникам приходится заключать временные союзы и следить друг за другом. Погоня за кладом ведёт их через разорённые войной города и военные лагеря.",
         "significance": "Завершение долларовой трилогии строит напряжение на долгом ожидании, резких переходах между пейзажем и крупным планом и музыке Эннио Морриконе. Гражданская война становится фоном истории, в которой сотрудничество и предательство зависят от общих интересов.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
           "https://www.oscars.org/events/good-bad-and-ugly",
-          "https://www.bfi.org.uk/film/48f84a16-0530-544f-b591-0d564249dd43/the-good-the-bad-and-the-ugly"
+          "https://www.bfi.org.uk/film/48f84a16-0530-544f-b591-0d564249dd43/the-good-the-bad-and-the-ugly",
+          "https://silver.afi.com/movies/detail/0100002555/"
         ]
       },
       {
@@ -2236,10 +2241,11 @@
         "minutes": 117,
         "synopsis": "В Лос-Анджелесе будущего бывшего полицейского Рика Декарда возвращают к работе: несколько искусственно созданных людей-репликантов сбежали с внеземной колонии. Пока он разыскивает их в многоярусном городе, встречи с ними заставляют его задуматься о памяти, продолжительности жизни и границах человечности.",
         "significance": "Основанный на романе Филипа Дика фильм соединил фантастику с атмосферой нуара. Дождливый многоярусный город, рекламные экраны и музыка Вангелиса стали влиятельным образом будущего. Существуют несколько монтажных версий; BFI показывает Final Cut продолжительностью 117 минут.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
           "https://www.bfi.org.uk/film/ec064a2a-f7a8-536a-afa2-ed076aad151f/blade-runner",
-          "https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=blade-runner-final-cut-imax"
+          "https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=blade-runner-final-cut-imax",
+          "https://www.bfi.org.uk/features/blade-runner"
         ]
       },
       {
