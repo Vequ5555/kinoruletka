@@ -542,3 +542,14 @@ BFI относит «Навсикаю» к работам, предшеству�
 - d22f06: [источник](https://www.criterion.com/films/28115-the-trial); partial.
 
 d22f04: AFI датирует фильм 1948 годом, в каталоге сохранён 1947; требуется сопоставить ранний показ и прокат. d22f05: [BFI](https://www.bfi.org.uk/lists/5-things-watch-this-bank-holiday-weekend-26-29-may) указывает 1965, Criterion — 1966. d22f06: [Criterion](https://www.criterion.com/channel/films?decade=1960s) перечисляет Францию, Италию и Югославию, каталог — Францию, Италию и ФРГ; необходимо уточнить состав производства.
+
+## Ясудзиро Одзу: d23f01–d23f06
+
+Идентификация и сюжет сверены с Criterion и BFI. Жанры и толкования — редакторские; продолжительности сохранены по прежним источникам. [Обзор фильмографии BFI](https://www.bfi.org.uk/lists/yasujiro-ozu-10-essential-films) подтверждает связь «Плывущих трав» с немой версией 1934 года.
+
+- d23f01: [страница фильма](https://www.criterion.com/films/284-tokyo-story).
+- d23f02: [страница фильма](https://www.criterion.com/films/298-late-spring).
+- d23f03: [страница фильма](https://www.criterion.com/films/784).
+- d23f04: [страница фильма](https://www.criterion.com/films/875-early-summer).
+- d23f05: [страница фильма](https://player.bfi.org.uk/subscription/film/watch-floating-weeds-1959-online).
+- d23f06: [страница фильма](https://www.criterion.com/films/624-good-morning).
