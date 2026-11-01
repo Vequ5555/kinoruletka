@@ -261,3 +261,13 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - [Каннский фестиваль](https://www.festival-cannes.com/en/p/david-lynch/): «Золотая пальмовая ветвь» за «Дикие сердцем» и разделённый приз за режиссуру «Малхолланд Драйв».
 - [Американская киноакадемия: профиль](https://www.oscars.org/governors-awards/2019/david-lynch) и [церемония 2019 года](https://www.oscars.org/governors/ceremonies/2019): режиссёрские номинации и почётная награда. Почётная награда не является конкурсной победой за режиссуру.
 - Описание стиля — редакторская интерпретация по перечисленным работам и материалам; утверждение о влиянии на отдельных авторов намеренно не конкретизировано без отдельных свидетельств.
+
+## Профили d11–d15 — проверка и редактура
+
+Биографии, конкретные фильмы и награды сверены с указанными источниками. Описание стиля является редакторским обобщением; формулировки о влиянии ограничены указанными примерами.
+
+- d11 — Стивен Спилберг: [биография](https://www.neh.gov/about/awards/national-humanities-medals/steven-spielberg), [стиль и контекст](https://www.bfi.org.uk/film/98b20662-5754-5b8a-8e69-38fbec0d85c2/jaws), [награды](https://www.oscars.org/oscars/ceremonies/1999).
+- d12 — Кристофер Нолан: [биография](https://www.bfi.org.uk/lists/10-great-american-debuts-british-directors), [стиль и контекст](https://www.bfi.org.uk/sight-and-sound/features/christopher-nolan-time-games), [награды](https://www.oscars.org/oscars/ceremonies/2024).
+- d13 — Дени Вильнёв: [биография](https://cfe.tiff.net/content/bios/denis-villeneuve), [стиль и контекст](https://www.festival-cannes.com/en/p/denis-villeneuve/), [награды](https://www.oscars.org/oscars/ceremonies/2017).
+- d14 — Вонг Карвай: [биография](https://www.biff.kr/eng/html/archive/arc_history_view.asp?m_idx=259&pyear=1997), [стиль и контекст](https://www.bfi.org.uk/features/where-begin-with-wong-kar-wai), [награды](https://www.festival-cannes.com/en/p/kar-wai-wong/).
+- d15 — Пон Джун-хо: [биография](https://www.festival-cannes.com/en/p/joon-ho-bong-2/), [стиль и контекст](https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground), [награды](https://www.oscars.org/oscars/ceremonies/2020/R).
