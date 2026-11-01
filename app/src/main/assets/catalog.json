@@ -289,9 +289,10 @@
         "significance": "Тарантино переплетает несколько криминальных историй, нарушая хронологию и чередуя напряжение с разговорным юмором. Картина получила «Золотую пальмовую ветвь» в Каннах и «Оскар» за оригинальный сценарий, став заметным событием американского кино 1990-х.",
         "source_urls": [
           "https://www.festival-cannes.com/en/f/pulp-fiction/",
-          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino"
+          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino",
+          "https://www.bfi.org.uk/film/bd809f0e-d695-558b-bba3-cbdfbda41820/pulp-fiction"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d03f02",
@@ -310,9 +311,10 @@
         "significance": "Тарантино соединяет военный фильм, напряжённые диалоги и приёмы спагетти-вестерна в истории, свободно обращающейся с событиями Второй мировой войны. Кристоф Вальц получил в Каннах приз за роль полковника Ганса Ланды; кинотеатр становится центральным местом действия.",
         "source_urls": [
           "https://www.festival-cannes.com/en/f/inglourious-basterds/",
-          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino"
+          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino",
+          "https://www.bfi.org.uk/film/b1f01a99-ab08-52e8-b1fd-da35caf1e6bd/inglourious-basterds"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d03f03",
@@ -331,7 +333,7 @@
           "https://catalog.afi.com/Catalog/moviedetails/69103",
           "https://www.bfi.org.uk/features/where-begin-quentin-tarantino"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d03f04",
@@ -350,9 +352,10 @@
         "significance": "Полнометражный дебют Тарантино строит криминальную историю вокруг последствий ограбления, а не его показа. Перебивки во времени постепенно знакомят с героями, а разговоры, музыка и замкнутое пространство склада усиливают взаимное недоверие.",
         "source_urls": [
           "https://catalog.afi.com/Film/59373-RESERVOIR-DOGS",
-          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino"
+          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino",
+          "https://www.bfi.org.uk/features/reservoir-dogs-quentin-tarantino"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d03f05",
@@ -370,9 +373,10 @@
         "significance": "Первая часть истории мести соединяет кино боевых искусств, самурайский фильм, анимацию и музыку, знакомую по итальянским вестернам. Тарантино меняет стили и порядок эпизодов, создавая приключение, которое открыто разговаривает с историей жанрового кино.",
         "source_urls": [
           "https://www.bfi.org.uk/film/0bf8530c-20cd-54f2-8813-fbd698ccddd3/kill-bill-vol-1",
-          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino"
+          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino",
+          "https://catalog.afi.com/Film/62793-KILL-BILL----VOL.-1"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d03f06",
@@ -389,7 +393,8 @@
         "significance": "Тарантино воссоздаёт Голливуд конца 1960-х через съёмочные площадки, телепередачи, уличную рекламу и музыку. Вымышленные карьеры Рика и Клиффа соседствуют с реальными именами эпохи, позволяя фильму размышлять о переменах в кино и уходящем образе жизни.",
         "source_urls": [
           "https://cinemadedemain.festival-cannes.com/en/f/once-upon-a-time-in-hollywood/",
-          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino"
+          "https://www.bfi.org.uk/features/where-begin-quentin-tarantino",
+          "https://www.bfi.org.uk/film/05524a28-0fb1-5ab9-aca5-54001f99a85e/once-upon-a-time-in-hollywood"
         ],
         "verification_status": "partial"
       }

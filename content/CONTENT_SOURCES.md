@@ -643,3 +643,12 @@ d17f01: 161 минута относится к копии показа Акад�
 - d02f02: [Criterion](https://www.criterion.com/films/553-solaris) — СССР, 1972 год, 166 минут, персонажа Криса и источник в романе Лема; значение фильма сформулировано как редакторское наблюдение.
 - d02f03: [Criterion](https://www.criterion.com/films/28894-mirror) — СССР, 1975 год, 106 минут, сочетание воспоминаний, снов и хроники.
 - d02f04: [Criterion](https://www.criterion.com/films/300-andrei-rublev) — СССР, 1966 год по каталогу, иконописец, эпизодическая структура и выбранная 183-минутная версия; первоначальный монтаж «Страсти по Андрею» длится 205 минут. 1966 — каталожная датировка фильма, а не утверждение о премьере 183-минутной копии.
+
+## Повторная проверка фильмов Тарантино d03f01–d03f06
+
+- d03f01: [BFI](https://www.bfi.org.uk/film/bd809f0e-d695-558b-bba3-cbdfbda41820/pulp-fiction) — 1994, США, 149 минут, нелинейная структура и Канны; [AFI](https://catalog.afi.com/Catalog/moviedetails/55207) — имена героев и авторство.
+- d03f02: [Канны](https://www.festival-cannes.com/en/f/inglourious-basterds/) — 2009, США/Германия, 148 минут указанной фестивальной записи, сюжет и награда; [BFI](https://www.bfi.org.uk/film/b1f01a99-ab08-52e8-b1fd-da35caf1e6bd/inglourious-basterds) подтверждает страны.
+- d03f03: [AFI](https://catalog.afi.com/Catalog/moviedetails/69103) — США, 2012, 165 минут, сюжет и влияние спагетти-вестернов.
+- d03f04: [AFI](https://catalog.afi.com/Catalog/moviedetails/59373) указывает премьеру 1992 года; [BFI](https://www.bfi.org.uk/film/7ad167dc-d40c-5a12-b167-726ae30d60a5/reservoir-dogs) — 1991 и 99 минут; [статья BFI](https://www.bfi.org.uk/features/reservoir-dogs-quentin-tarantino) подтверждает премьеру 1992. Выбран год премьеры; каталожная датировка 1991 сохранена здесь как различие.
+- d03f05: [AFI](https://catalog.afi.com/Film/62793-KILL-BILL----VOL.-1) — США, 2003, 110 минут и режиссёр; [BFI](https://www.bfi.org.uk/film/0bf8530c-20cd-54f2-8813-fbd698ccddd3/kill-bill-vol-1) — стиль.
+- d03f06 остаётся partial: [каталог Канн](https://www.festival-cannes.com/en/f/once-upon-a-time-in-hollywood/) — США, 159 минут, [BFI](https://www.bfi.org.uk/film/05524a28-0fb1-5ab9-aca5-54001f99a85e/once-upon-a-time-in-hollywood) — США/Великобритания/Китай, 161 минута, а [предварительное объявление Канн](https://www.festival-cannes.com/en/press/press-releases/the-2019-selection-new-announcements/) — 165 минут. Причины различий не установлены; не утверждается, что все значения описывают разные монтажи.
