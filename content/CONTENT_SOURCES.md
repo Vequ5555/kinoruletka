@@ -529,3 +529,16 @@ d20f03: статистический ежегодник BFI относит фи�
 - d21f06: [страница фильма](https://gkids.com/films/the-wind-rises/).
 
 BFI относит «Навсикаю» к работам, предшествующим основанию Ghibli. «Ветер крепчает» использует биографию Хорикоси как основу художественного вымысла.
+
+## Орсон Уэллс: d22f01–d22f06
+
+Названия, режиссура и основные сюжетные сведения сверены по каталогам; жанры и трактовки — редакторские. Продолжительности сохранены по прежним источникам.
+
+- d22f01: [источник](https://catalog.afi.com/Catalog/moviedetails/27624); verified.
+- d22f02: [источник](https://catalog.afi.com/Film/53683-TOUCH-OFEVIL); verified.
+- d22f03: [источник](https://www.criterion.com/films/28711-the-magnificent-ambersons); verified.
+- d22f04: [источник](https://catalog.afi.com/Film/25611-THE-LADY-FROM-SHANGHAI); partial.
+- d22f05: [источник](https://www.criterion.com/films/28756-chimes-at-midnight); partial.
+- d22f06: [источник](https://www.criterion.com/films/28115-the-trial); partial.
+
+d22f04: AFI датирует фильм 1948 годом, в каталоге сохранён 1947; требуется сопоставить ранний показ и прокат. d22f05: [BFI](https://www.bfi.org.uk/lists/5-things-watch-this-bank-holiday-weekend-26-29-may) указывает 1965, Criterion — 1966. d22f06: [Criterion](https://www.criterion.com/channel/films?decade=1960s) перечисляет Францию, Италию и Югославию, каталог — Францию, Италию и ФРГ; необходимо уточнить состав производства.
