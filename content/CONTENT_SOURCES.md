@@ -492,3 +492,14 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d18f06: [каталог](https://catalog.afi.com/Film/53922-BLACK-HAWKDOWN), [контекст](https://www.bfi.org.uk/film/bd2202ac-ff7a-5dba-93af-a5364a6c17c9/black-hawk-down); статус verified.
 
 У d18f02 BFI указывает 117 минут как для каталожной записи без уточнения монтажа, так и для отдельного показа Final Cut; точная версия исходной записи не установлена, статус частичный. Для d18f05 исходные 144 минуты — кинотеатральная копия, более длинная режиссёрская версия отмечена в Film at Lincoln Center; страны подтверждены AFI. d18f06: AFI датирует широкий прокат 2002 годом и упоминает ограниченный выпуск в декабре 2001, BFI указывает 2001.
+
+## Дэвид Финчер: d19f01–d19f06
+
+Идентификация и факты сюжета сверены по каталогам AFI; жанры и интерпретации — редакторские. Годы и режиссура дополнительно приведены в [BFI](https://www.bfi.org.uk/features/mindhunter-american-psychos). Продолжительности сохранены по прежним источникам.
+
+- d19f01: [каталог](https://catalog.afi.com/Film/60087-SE7EN), [контекст](https://silver.afi.com/movies/detail/0100004934/).
+- d19f02: [каталог](https://catalog.afi.com/Catalog/moviedetails/61148), [контекст](https://www.oscars.org/events/double-feature-blade-runner-and-fight-club).
+- d19f03: [каталог](https://catalog.afi.com/Catalog/moviedetails/64556), [контекст](https://www.bfi.org.uk/lists/10-great-crime-epics).
+- d19f04: [каталог](https://catalog.afi.com/Catalog/moviedetails/66175), [контекст](https://www.oscars.org/videos-photos/83rd-oscars-highlights).
+- d19f05: [каталог](https://catalog.afi.com/Film/70114-GONE-GIRL), [контекст](https://www.bfi.org.uk/lists/10-great-missing-person-films).
+- d19f06: [каталог](https://catalog.afi.com/Catalog/moviedetails/68302), [контекст](https://www.bfi.org.uk/features/mindhunter-american-psychos).
