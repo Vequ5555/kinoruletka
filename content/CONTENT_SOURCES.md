@@ -161,3 +161,32 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d13f01: французский CNC и [квебекский каталог](https://repertoire.cinema.mcc.gouv.qc.ca/film/incendies-326914/) указывают 131 мин, [BFI](https://www.bfi.org.uk/film/3ce1a49e-7092-526a-af0f-26ccf12dceee/incendies) — 150. Причина расхождения не установлена.
 - d13f04: австралийский классификатор указывает 153 мин, [AFI](https://catalog.afi.com/Film/69692-PRISONERS) — 151; причина расхождения неизвестна.
 - d22f03: 88 мин — выпущенная студией версия; предварительный монтаж Уэллса продолжительностью около 131 минуты не сохранился в полном виде ([Criterion](https://www.criterion.com/current/posts/803-the-magnificent-ambersons)).
+
+## Продолжительности: Скотт, Финчер, Миядзаки и дель Торо
+
+Значения относятся к перечисленным каталогам и показам; остальные поля карточек остаются предварительными.
+
+- d18f01 — Чужой: 117 мин. [Источник](https://catalog.afi.com/Film/53908-Alien).
+- d18f02 — Бегущий по лезвию: 117 мин. [Источник](https://www.bfi.org.uk/film/ec064a2a-f7a8-536a-afa2-ed076aad151f/blade-runner).
+- d18f03 — Гладиатор: 155 мин. [Источник](https://www.bfi.org.uk/film/2fb5921a-0569-5510-a004-0115ed82f2ce/gladiator).
+- d18f04 — Тельма и Луиза: 128 мин. [Источник](https://catalog.afi.com/Film/59064-THELMA-LOUISE).
+- d18f06 — Чёрный ястреб: 148 мин. [Источник](https://catalog.afi.com/Film/53922-BLACK-HAWKDOWN).
+- d19f01 — Семь: 126 мин. [Источник](https://catalog.afi.com/Film/60087-SE7EN).
+- d19f02 — Бойцовский клуб: 139 мин. [Источник](https://catalog.afi.com/Catalog/moviedetails/61148).
+- d19f03 — Зодиак: 158 мин. [Источник](https://catalog.afi.com/Catalog/moviedetails/64556).
+- d21f01 — Унесённые призраками: 125 мин. [Источник](https://www.bfi.org.uk/film/f25b5afd-4b55-598b-8bed-f284de120f94/spirited-away).
+- d21f03 — Мой сосед Тоторо: 87 мин. [Источник](https://www.bfi.org.uk/film/659f87a6-000d-59a5-b3ab-536f10de2c39/my-neighbour-totoro).
+- d21f05 — Ходячий замок: 119 мин. [Источник](https://www.bfi.org.uk/film/dca42dbf-a3c4-54e9-9a2e-0cb190f5062a/howls-moving-castle).
+- d21f06 — Ветер крепчает: 126 мин. [Источник](https://www.bfi.org.uk/film/cbda370b-a5d0-5616-84af-86851581c28c/the-wind-rises).
+- d25f01 — Лабиринт Фавна: 114 мин. [Источник](https://www.festival-cannes.com/f/el-laberinto-del-fauno/).
+- d25f02 — Форма воды: 123 мин. [Источник](https://iffr.com/en/iffr/2018/films/the-shape-of-water).
+- d25f03 — Хребет дьявола: 108 мин. [Источник](https://www.criterion.com/films/27914-the-devil-s-backbone).
+- d25f04 — Багровый пик: 119 мин. [Источник](https://catalog.afi.com/Film/70821-CRIMSON-PEAK).
+- d25f05 — Хеллбой: Герой из пекла: 122 мин. [Источник](https://catalog.afi.com/Film/63098-HELLBOY).
+
+### Расхождения и версии
+
+- d18f02: 117 минут — по карточке BFI; для фильма существуют разные монтажи, конкретная версия в карточке BFI не указана и требует уточнения.
+- d18f06: AFI датирует национальный прокат 2002 годом, исходный каталог использует 2001; год оставлен без изменения до уточнения дат премьер.
+- d25f01: 114 минут — запись Канн 2006 года; [другая запись фестиваля](https://www.festival-cannes.com/f/pan-s-labyrinth/) указывает 118 минут. Причина различия не установлена.
+- d25f02: 123 минуты — показ IFFR 2018 и [лондонского фестиваля](https://www.bfi.org.uk/sight-and-sound/news/30-recommendations-bfi-london-film-festival-2017); [карточка BFI](https://www.bfi.org.uk/film/00270355-6748-5352-80cc-8ec9bcd68c66/the-shape-of-water) указывает 119 минут. Причина различия не установлена.
