@@ -382,7 +382,7 @@
         "minutes": 149,
         "synopsis": "На заре человечества загадочный чёрный монолит появляется рядом со стаей древних предков людей. Спустя тысячелетия похожий объект находят на Луне, и к Юпитеру отправляется экспедиция. Астронавты полагаются на бортовой компьютер HAL 9000, пока миссия ведёт их к границам известного мира.",
         "significance": "Кубрик и писатель Артур Кларк создали научную фантастику, в которой история разума рассказана прежде всего средствами изображения и музыки. По оценке BFI, фильм изменил экранное изображение космоса; монтажный переход от кости к космическому аппарату соединяет разные эпохи.",
-        "verification_status": "verified",
+        "verification_status": "partial",
         "source_urls": [
           "https://www.bfi.org.uk/film/cefccdb2-b558-5623-9c17-72b4be7bd4c1/2001-a-space-odyssey",
           "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=2001aspaceodyssey2022",
@@ -516,7 +516,7 @@
         "minutes": 114,
         "synopsis": "Ветеран Вьетнама Трэвис Бикл страдает бессонницей и устраивается ночным таксистом в Нью-Йорке. Долгие часы за рулём усиливают его отчуждение и недоверие к окружающим. Попытки завязать отношения и найти своё место в городе постепенно уступают навязчивому желанию самому восстановить справедливость.",
         "significance": "Скорсезе и сценарист Пол Шредер показали город через восприятие одинокого героя: ночные улицы, неон и музыка Бернарда Херрманна передают его тревожное состояние. В 1976 году фильм получил «Золотую пальмовую ветвь» Каннского фестиваля.",
-        "verification_status": "verified",
+        "verification_status": "partial",
         "source_urls": [
           "https://www.bfi.org.uk/film/d964bfb7-729b-5181-85f8-35b1bd3a21a3/taxi-driver",
           "https://www.festival-cannes.com/en/retrospective/1976/awards/",
@@ -1903,7 +1903,7 @@
         "title": "Вторжение динозавра",
         "year": 2006,
         "original_title": "괴물",
-        "country": "Южная Корея",
+        "country": "Южная Корея / Япония",
         "genres": [
           "фантастика",
           "ужасы",
@@ -1916,7 +1916,9 @@
         "source_urls": [
           "https://www.filmlinc.org/films/the-host/",
           "https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?category=ALL&mode=INDEX_FILMS_LIST&movieCd=20060151&pageIndex=1&pageRowSize=10&peopleCd=&s_genre=ALL&searchKeyword=The+Host+&searchType=MOVIE_NM&strMenuId=010401&userId=",
-          "https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=host-2025"
+          "https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=host-2025",
+          "https://bfidatadigipres.github.io/bong%20joon%20ho%3Cbr%3Epower%20and%20paradox/2025/04/05/host/",
+          "https://iffr.com/en/iffr/2007/films/the-host"
         ]
       },
       {
@@ -3137,10 +3139,12 @@
         "minutes": 114,
         "synopsis": "Испания, 1944 год. Девочка Офелия вместе с беременной матерью приезжает к отчиму — капитану франкистской армии, который ведёт борьбу с партизанами. У старого лабиринта она встречает загадочного фавна и узнаёт о заданиях, способных открыть ей путь в сказочное подземное царство.",
         "significance": "Дель Торо соединяет сказку о взрослении с историей франкистских репрессий. Грим, декорации и образы чудесных существ создают мир, который не отделён от жестокости окружающей действительности. Картина получила три «Оскара» за операторскую работу, декорации и грим.",
-        "verification_status": "partial",
+        "verification_status": "verified",
         "source_urls": [
           "https://www.festival-cannes.com/f/el-laberinto-del-fauno/",
-          "https://www.bfi.org.uk/film/80a5c68c-6519-56a5-b38c-0d246f6e278b/pans-labyrinth"
+          "https://www.bfi.org.uk/film/80a5c68c-6519-56a5-b38c-0d246f6e278b/pans-labyrinth",
+          "https://www.mcu.es/comun/bases/cine/Anuarios/2006/P111905.pdf",
+          "https://catalog.afi.com/Catalog/moviedetails/63906"
         ]
       },
       {
@@ -3187,7 +3191,7 @@
         "title": "Багровый пик",
         "year": 2015,
         "original_title": "Crimson Peak",
-        "country": "США / Канада",
+        "country": "США / Канада / Мексика",
         "genres": [
           "готическая драма",
           "ужасы"
@@ -3197,7 +3201,9 @@
         "significance": "Готический роман дель Торо превращает дом в выразительную часть повествования: разрушающиеся стены, красная глина и смена времён года поддерживают ощущение тревоги. История соединяет семейную тайну с образами литературного и кинематографического ужаса.",
         "verification_status": "partial",
         "source_urls": [
-          "https://catalog.afi.com/Film/70821-CRIMSON-PEAK"
+          "https://catalog.afi.com/Film/70821-CRIMSON-PEAK",
+          "https://tv.apple.com/ca/movie/crimson-peak/umc.cmc.721yk7o44k8f16ltkvqg72ef",
+          "https://roderic.uv.es/bitstream/10550/85215/1/tesis%20teseo%20roderic.pdf"
         ]
       },
       {
