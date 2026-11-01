@@ -399,11 +399,13 @@
           "криминал"
         ],
         "minutes": 136,
-        "synopsis": "В недалёком будущем молодой Алекс проводит вечера с бандой и наслаждается насилием. После ареста власти предлагают ему экспериментальную программу исправления поведения.",
-        "significance": "Экранизация романа Энтони Бёрджесса исследует свободу выбора и государственное принуждение, соединяя тревожную сатиру с вызывающей визуальной стилизацией.",
-        "verification_status": "preliminary",
+        "synopsis": "В недалёком будущем Алекс и его приятели проводят вечера в поисках развлечений, нередко жестоких. Алекс обожает Бетховена и гордится властью над своей компанией, но после ареста оказывается в руках государства. Ему предлагают экспериментальное лечение, которое должно подавить склонность к насилию.",
+        "significance": "Экранизация Энтони Бёрджесса соединяет антиутопию, чёрную комедию и резкую визуальную стилизацию. История Алекса ставит вопрос о свободе выбора: можно ли считать человека нравственным, если государство принуждает его к правильному поведению?",
+        "verification_status": "verified",
         "source_urls": [
-          "https://www.bfi.org.uk/film/42658f34-6e1f-5712-990e-4a64564d666f/a-clockwork-orange"
+          "https://www.bfi.org.uk/film/42658f34-6e1f-5712-990e-4a64564d666f/a-clockwork-orange",
+          "https://catalog.afi.com/Film/54041-A-CLOCKWORKORANGE",
+          "https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=clockwork-orange"
         ]
       },
       {
@@ -422,7 +424,8 @@
         "significance": "Экранизация Стивена Кинга стала влиятельным фильмом ужасов благодаря тревожным пространствам отеля, движению камеры и неоднозначности происходящего.",
         "verification_status": "preliminary",
         "source_urls": [
-          "https://player.bfi.org.uk/rentals/film/watch-2001-a-space-odyssey-1968-online"
+          "https://www.bfi.org.uk/film/4d39487e-a464-5771-a2f3-2533c7ba9c8c/the-shining",
+          "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=shining-extended-version"
         ]
       },
       {
@@ -472,11 +475,13 @@
           "драма"
         ],
         "minutes": 185,
-        "synopsis": "Молодой ирландец Редмонд Барри отправляется искать удачи в Европе XVIII века. Война, азартные игры и знакомства открывают ему путь в высшее общество, где положение оказывается непрочным.",
-        "significance": "Экранизация Теккерея известна живописными композициями и съёмками при свечах; её размеренная история показывает общество, зависимое от статуса и происхождения.",
-        "verification_status": "preliminary",
+        "synopsis": "Ирландец Редмонд Барри покидает родной дом и ищет удачи в Европе XVIII века. Ему приходится пройти через войну и привыкнуть к жизни, в которой связи и положение значат не меньше личных достоинств. Встреча с богатой вдовой открывает ему доступ в высшее общество, но не избавляет от его правил.",
+        "significance": "Кубрик превратил роман Теккерея в историю о цене общественного положения. Для сцен при свечах оператор Джон Олкотт использовал специально приспособленные светосильные объективы; композиции и размеренный рассказ помогают увидеть XVIII век как мир строгих условностей.",
+        "verification_status": "verified",
         "source_urls": [
-          "https://www.criterion.com/films/29008-barry-lyndon"
+          "https://www.criterion.com/films/29008-barry-lyndon",
+          "https://www.bfi.org.uk/features/barry-lyndon-40th-anniversary-behind-scenes-stanley-kubrick",
+          "https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=barry-lyndon-kubrick"
         ]
       }
     ],
