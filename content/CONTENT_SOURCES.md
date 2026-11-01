@@ -566,3 +566,16 @@ d22f04: AFI датирует фильм 1948 годом, в каталоге с�
 - d24f06: [источник](https://www.sonyclassics.com/awards/curse.html); partial.
 
 d24f04: [Каннский фестиваль](https://www.festival-cannes.com/en/f/ju-dou/) и [BFI](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/all-voters/dina-iordanova) называют Ян Фэнляна сорежиссёром; Film at Lincoln Center указывает только Чжана. d24f03, d24f05 и d24f06 оставлены частичными до независимой проверки стран производства; отдельные страницы Канн доступны в поисковом индексе, но при прямом открытии возвращали 403.
+
+## Гильермо дель Торо: d25f01–d25f06
+
+Идентификация и сюжет сверены по указанным страницам, жанры и трактовки — редакторские. Продолжительности сохранены по прежним источникам.
+
+- d25f01: [источник](https://www.bfi.org.uk/film/80a5c68c-6519-56a5-b38c-0d246f6e278b/pans-labyrinth); partial.
+- d25f02: [источник](https://iffr.com/en/iffr/2018/films/the-shape-of-water); verified.
+- d25f03: [источник](https://www.criterion.com/films/27914-the-devil-s-backbone); verified.
+- d25f04: [источник](https://catalog.afi.com/Film/70821-CRIMSON-PEAK); partial.
+- d25f05: [источник](https://www.bfi.org.uk/film/8dc65d0f-bb26-56f1-be75-b9373fa3354e/hellboy); verified.
+- d25f06: [источник](https://www.criterion.com/films/35272-nightmare-alley); verified.
+
+d25f01: каталог BFI включает США наряду с Испанией и Мексикой, а [программа BFI](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=pans-labyrinth-2d-imax) указывает только Испанию и Мексику. d25f04: классификацию стран необходимо проверить независимым каталогом. d25f06: Criterion различает кинотеатральную версию 150 минут и расширенную чёрно-белую версию 2025 года 159 минут.
