@@ -20,9 +20,10 @@
         "significance": "Куросава соединяет историю обороны с подробным портретом общины и каждого из защитников. Построение боя, монтаж движения и внимание к географии пространства сделали картину важным образцом ансамблевого приключенческого кино; сюжет получил множество переосмыслений.",
         "source_urls": [
           "https://shop.bfi.org.uk/seven-samurai-standard-edition-4k-ultra-hd-blu-ray-extras/",
-          "https://jfdb.jp/en/title/6907"
+          "https://jfdb.jp/en/title/6907",
+          "https://www.criterion.com/current/posts/19-seven-samurai"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d01f02",
@@ -39,9 +40,11 @@
         "synopsis": "Во время ливня дровосек и монах укрываются под разрушенными воротами Расёмон. Они рассказывают прохожему о преступлении в лесу и недавнем разбирательстве. Бандит, жена самурая и другие участники предлагают несовпадающие версии одного события, вынуждая слушателей задуматься о достоверности каждого рассказа.",
         "significance": "Фильм выстраивает повествование из противоречивых свидетельств и не предлагает простого способа их совместить. Именно эта структура стала известной моделью рассказа с несколькими точками зрения; победа в Венеции помогла привлечь международное внимание к японскому кино.",
         "source_urls": [
-          "https://www.criterion.com/films/307-rashomon"
+          "https://www.criterion.com/films/307-rashomon",
+          "https://www.labiennale.org/en/history-venice-film-festival",
+          "https://jfdb.jp/person/1372"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d01f03",
@@ -56,9 +59,10 @@
         "synopsis": "Чиновник Кэндзи Ватанабэ десятилетиями работает в городском учреждении и привык к нескончаемому потоку бумаг. Узнав о тяжёлой болезни, он пытается понять, что успел сделать за свою жизнь. Встречи с незнакомцами и воспоминания о семье подталкивают его к поиску дела, которое имело бы смысл для других.",
         "significance": "Куросава превращает историю одного чиновника в драму о времени, ответственности и бюрократии. Фильм меняет способ повествования, позволяя увидеть героя не только изнутри, но и глазами окружающих; повседневная служба становится пространством нравственного выбора.",
         "source_urls": [
-          "https://www.criterion.com/films/353-ikiru"
+          "https://www.criterion.com/films/353-ikiru",
+          "https://jfdb.jp/person/1372"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d01f04",
@@ -75,9 +79,10 @@
         "synopsis": "Странствующий ронин приходит в городок, жители которого оказались между двумя соперничающими преступными группировками. Городской трактирщик рассказывает ему о вражде двух банд. Поняв, что обе стороны ищут сильных бойцов, незнакомец предлагает им свои услуги. Его расчёт и умение обращаться с мечом постепенно нарушают сложившийся баланс сил.",
         "significance": "Куросава соединяет самурайский фильм с чёрным юмором и интригой о соперничающих бандах. Образ одинокого героя и драматургия противостояния стали основой для «За пригоршню долларов» Серджо Леоне, перенёсшего ситуацию в пространство вестерна.",
         "source_urls": [
-          "https://www.criterion.com/films/597-yojimbo"
+          "https://www.criterion.com/films/597-yojimbo",
+          "https://jfdb.jp/person/1372"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d01f05",
@@ -99,7 +104,7 @@
           "https://www.cnc.fr/professionnels/visas-et-classification/58720",
           "https://www.cinematheque.fr/film/45125.html"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       },
       {
         "id": "d01f06",
@@ -118,9 +123,10 @@
         "source_urls": [
           "https://www.criterion.com/films/735-throne-of-blood",
           "https://nd.jpf.go.jp/events/event/throne-of-blood/",
-          "https://player.bfi.org.uk/subscription/collection/japanese-cinema"
+          "https://player.bfi.org.uk/subscription/collection/japanese-cinema",
+          "https://jfdb.jp/person/1372"
         ],
-        "verification_status": "partial"
+        "verification_status": "verified"
       }
     ],
     "country": "Япония",
