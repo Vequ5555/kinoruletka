@@ -1,0 +1,11 @@
+const {test}=require('node:test'),assert=require('node:assert/strict');
+const A=require('../app/src/main/assets/achievements.js'), E=require('../app/src/main/assets/engine.js'), C=require('../app/src/main/assets/catalog.json');
+const time=n=>`2026-01-${String(n).padStart(2,'0')}T12:00:00.000Z`;
+function finish(s,n,index=0){E.choose(s,C,()=>index);for(let i=0;i<3;i++)E.rate(s,i,10,time(n));}
+test('empty season has locked achievements and a nearest goal',()=>{const s=A.summary(E.blank());assert.equal(s.unlocked,0);assert.equal(s.last,null);assert.equal(s.nearest.id,'first_film');assert.equal(s.nearest.progress,0)});
+test('historical progress derives unlock dates from threshold events without migration',()=>{const s=E.blank();finish(s,3);finish(s,1);finish(s,2);const a=A.evaluate(JSON.parse(JSON.stringify(s)));assert.equal(a.find(x=>x.id==='first_film').date,time(1));assert.equal(a.find(x=>x.id==='first_director').date,time(1));assert.equal(a.find(x=>x.id==='ten_films').progress,9);assert.equal(s.version,2)});
+test('one action can unlock multiple achievements exactly once',()=>{const s=E.blank();E.choose(s,C,()=>0);E.rate(s,0,10,time(1));E.rate(s,1,10,time(2));const before=E.clone(s);E.rate(s,2,10,time(3));assert.deepEqual(A.newlyUnlocked(before,s).map(x=>x.id),['first_director']);assert.deepEqual(A.newlyUnlocked(s,E.clone(s)),[])});
+test('eastern achievement uses completion dates, including 3rd qualifying director',()=>{const s=E.blank();finish(s,1,0);finish(s,2,12);finish(s,3,12);const a=A.evaluate(s).find(x=>x.id==='east');assert.equal(a.unlocked,true);assert.equal(a.date,time(3));assert.equal(a.progress,3)});
+test('all achievements are unlocked at season completion',()=>{const s=E.blank();for(let i=0;i<25;i++)finish(s,i+1);const result=A.summary(s);assert.equal(result.unlocked,A.definitions.length);assert.equal(result.nearest,null);assert.equal(result.last.id,'season')});
+
+test('simultaneous milestones are both returned and neither repeats',()=>{const completed=['d01','d14','d02','d03','d04','d05'].map((id,i)=>({id,completedAt:time(i+1),films:[]}));const before={...E.blank(),completed};const after=E.clone(before);after.completed.push({id:'d15',completedAt:time(7),films:[]});assert.deepEqual(A.newlyUnlocked(before,after).map(a=>a.id),['quarter','east']);assert.deepEqual(A.newlyUnlocked(after,after),[])});
