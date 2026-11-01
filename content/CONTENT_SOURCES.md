@@ -479,3 +479,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d17f06: [каталог](https://catalog.afi.com/Film/54460-DUCK-YOU-SUCKER), [контекст](https://www.bfi.org.uk/features/fistful-dynamite-duck-you-sucker-sergio-leone); статус verified.
 
 Для d17f01 BFI указывает Италию, исходный каталог — Италию, Испанию и ФРГ; продолжительность 161 мин отличается от 178-минутного [показа AFI](https://silver.afi.com/movies/detail/0100002555/). Карточка остаётся частичной до уточнения стран и версии. Для d17f02 AFI указывает 1969 год, BFI — 1968; для d17f05 BFI указывает 1983, AFI и другие материалы BFI — 1984; в обоих случаях сохранён исходный год.
+
+## Ридли Скотт: d18f01–d18f06
+
+Идентификация, сюжет и фактические утверждения сверены по указанным источникам; жанры и трактовка — редакторские. Продолжительности сохранены по прежним источникам.
+
+- d18f01: [каталог](https://catalog.afi.com/Film/53908-Alien), [контекст](https://www.bfi.org.uk/film/71399b2f-6846-5377-83c6-bf3c21e84965/alien); статус verified.
+- d18f02: [каталог](https://www.bfi.org.uk/film/ec064a2a-f7a8-536a-afa2-ed076aad151f/blade-runner), [контекст](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=blade-runner-final-cut-imax); статус partial.
+- d18f03: [каталог](https://www.bfi.org.uk/film/2fb5921a-0569-5510-a004-0115ed82f2ce/gladiator), [контекст](https://www.oscars.org/oscars/ceremonies/2001/memorable-moments); статус verified.
+- d18f04: [каталог](https://catalog.afi.com/Film/59064-THELMA-LOUISE), [контекст](https://www.oscars.org/oscars/ceremonies/1992/I); статус verified.
+- d18f05: [каталог](https://catalog.afi.com/Catalog/moviedetails/63487), [контекст](https://www.filmlinc.org/films/kingdom-of-heaven/); статус verified.
+- d18f06: [каталог](https://catalog.afi.com/Film/53922-BLACK-HAWKDOWN), [контекст](https://www.bfi.org.uk/film/bd2202ac-ff7a-5dba-93af-a5364a6c17c9/black-hawk-down); статус verified.
+
+У d18f02 BFI указывает 117 минут как для каталожной записи без уточнения монтажа, так и для отдельного показа Final Cut; точная версия исходной записи не установлена, статус частичный. Для d18f05 исходные 144 минуты — кинотеатральная копия, более длинная режиссёрская версия отмечена в Film at Lincoln Center; страны подтверждены AFI. d18f06: AFI датирует широкий прокат 2002 годом и упоминает ограниченный выпуск в декабре 2001, BFI указывает 2001.
