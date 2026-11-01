@@ -281,3 +281,13 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d18 — Ридли Скотт: [биография](https://www.bfi.org.uk/features/where-begin-with-ridley-scott), [стиль и контекст](https://www.bfi.org.uk/film/ec064a2a-f7a8-536a-afa2-ed076aad151f/blade-runner), [награды и карьера](https://press.oscars.org/news/academy-honor-glenn-close-floyd-norman-ridley-scott-and-christine-vachon-pamela-koffler-2026).
 - d19 — Дэвид Финчер: [биография](https://goldenglobes.com/person/david-fincher/), [стиль и контекст](https://www.bfi.org.uk/lists/10-great-crime-epics), [награды и карьера](https://www.oscars.org/sites/oscars/files/93rd_oscars_noms_factsheet.pdf).
 - d20 — Пол Томас Андерсон: [биография](https://www.tcm.com/articles/featured-directors/022052/paul-thomas-anderson-biography), [стиль и контекст](https://www.bfi.org.uk/film/a5cbe0af-dae7-5b36-90f6-2212137dcc65/magnolia), [награды и карьера](https://www.berlinale.de/media/download/presse/pressemitteilungen/58_berlinale/68_pressrelease_five_oscars_for_berlinale_stars_and_films.pdf).
+
+## Профили d21–d25 — проверка и редактура
+
+Биографии, карьеры и указанные награды сверены по источникам; стиль — редакторский анализ. Влияние сформулировано в пределах приведённых материалов.
+
+- d21 — Хаяо Миядзаки: [биография](https://www.oscars.org/collection-highlights/hayao-miyazaki), [стиль и контекст](https://www.oscars.org/governors-awards/2014/hayao-miyazaki), [награды и признание](https://www.oscars.org/oscars/ceremonies/2024).
+- d22 — Орсон Уэллс: [биография](https://www.britannica.com/biography/Orson-Welles), [стиль и контекст](https://www.oscars.org/events/essential-orson-welles-citizen-kane), [награды и признание](https://www.oscars.org/oscars/ceremonies/1971/L).
+- d23 — Ясудзиро Одзу: [биография](https://jfdb.jp/en/person/28504), [стиль и контекст](https://www.bfi.org.uk/features/enigmatic-pillow-shots-yasujiro-ozu), [награды и признание](https://www.bfi.org.uk/features/unveiling-greatest-films-all-time).
+- d24 — Чжан Имоу: [биография](https://cinemadedemain.festival-cannes.com/en/p/yimou-zhang/), [стиль и контекст](https://www.bfi.org.uk/features/century-chinese-cinema-introduction), [награды и признание](https://www.berlinale.de/media/download/presse/pressemitteilungen/61_berlinale/33_pressrelease_generation_17_12_10.pdf).
+- d25 — Гильермо дель Торо: [биография](https://www.oscars.org/events/labyrinth-conversation-guillermo-del-toro), [стиль и контекст](https://www.oscars.org/collection-highlights/guillermo-del-toro?page=2), [награды и признание](https://www.oscars.org/oscars/ceremonies/2023).
