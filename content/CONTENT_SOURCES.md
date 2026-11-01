@@ -440,3 +440,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d14f06: [каталог](https://www.criterion.com/films/29477-days-of-being-wild), [контекст](https://www.bfi.org.uk/features/wong-kar-wai-music-soundtracks).
 
 Страны d14f01 и d14f03 дополнены по [BFI: Любовное настроение](https://www.bfi.org.uk/film/1b8c3bcb-842f-5ba2-90ee-39b6b40b7c21/in-the-mood-for-love) и [BFI: 2046](https://www.bfi.org.uk/film/e19fc37c-7ebd-55c0-b4a6-30b45e9765d7/2046); Criterion использует более краткие обозначения.
+
+## Пон Джун-хо: d15f01–d15f06
+
+Названия, годы, постановщик и сюжеты сверены по указанным источникам; жанры и трактовки — редакторские. Продолжительности оставлены по ранее выбранным источникам.
+
+- d15f01: [каталог](https://www.criterion.com/films/31458-memories-of-murder), [контекст](https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20030046); статус verified.
+- d15f02: [каталог](https://www.festival-cannes.com/en/f/gisaengchung/), [контекст](https://www.oscars.org/oscars/ceremonies/2020/R); статус verified.
+- d15f03: [каталог](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=snowpiercer-2025), [контекст](https://www.bfi.org.uk/lists/10-great-post-apocalyptic-films); статус verified.
+- d15f04: [каталог](https://www.festival-cannes.com/en/f/mother-2/), [контекст](https://www.bfi.org.uk/features/where-begin-with-bong-joon-ho); статус verified.
+- d15f05: [каталог](https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?category=ALL&mode=INDEX_FILMS_LIST&movieCd=20060151&pageIndex=1&pageRowSize=10&peopleCd=&s_genre=ALL&searchKeyword=The+Host+&searchType=MOVIE_NM&strMenuId=010401&userId=), [контекст](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=host-2025); статус partial.
+- d15f06: [каталог](https://www.festival-cannes.com/en/f/okja/), [контекст](https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground); статус verified.
+
+Для d15f05 KOFIC указывает Южную Корею, показ BFI — Южную Корею и Японию; источники также расходятся на минуту. Исходные страна и продолжительность сохранены, карточка частично проверена до уточнения. Для d15f03 BFI IMAX указывает Южную Корею и Чехию, тогда как BFI Player перечисляет только Корею.
