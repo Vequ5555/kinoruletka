@@ -25,9 +25,11 @@ public class MainActivity extends Activity {
         getWindow().setStatusBarColor(0xff101017);
         getWindow().setNavigationBarColor(0xff101017);
         web = new WebView(this);
+        android.widget.FrameLayout root = new android.widget.FrameLayout(this);
+        root.addView(web);
         if (android.os.Build.VERSION.SDK_INT >= 30) {
             getWindow().setDecorFitsSystemWindows(false);
-            web.setOnApplyWindowInsetsListener((view, insets) -> {
+            root.setOnApplyWindowInsetsListener((view, insets) -> {
                 android.graphics.Insets bars = insets.getInsets(android.view.WindowInsets.Type.systemBars() | android.view.WindowInsets.Type.displayCutout());
                 view.setPadding(bars.left, bars.top, bars.right, bars.bottom);
                 return insets;
@@ -44,7 +46,8 @@ public class MainActivity extends Activity {
             @Override public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) { return loader.shouldInterceptRequest(request.getUrl()); }
             @Override public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) { return true; }
         });
-        setContentView(web);
+        setContentView(root);
+        root.requestApplyInsets();
         web.loadUrl("https://appassets.androidplatform.net/assets/index.html");
     }
     private class Backup {

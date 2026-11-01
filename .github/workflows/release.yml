@@ -25,9 +25,9 @@ jobs:
           RELEASE_STORE_PASSWORD: ${{ secrets.ANDROID_STORE_PASSWORD }}
           RELEASE_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
           RELEASE_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
-          ANDROID_VERSION_CODE: ${{ github.run_number }}
         run: |
           test -n "$RELEASE_STORE_PASSWORD" && test -n "$RELEASE_KEY_ALIAS" && test -n "$RELEASE_KEY_PASSWORD"
+          export ANDROID_VERSION_CODE=$((10000 + GITHUB_RUN_NUMBER))
           node --test tests/*.test.js
           ./gradlew --no-daemon assembleRelease
           "$ANDROID_HOME/build-tools/35.0.0/apksigner" verify app/build/outputs/apk/release/app-release.apk
