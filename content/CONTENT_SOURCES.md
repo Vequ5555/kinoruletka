@@ -652,3 +652,19 @@ d17f01: 161 минута относится к копии показа Акад�
 - d03f04: [AFI](https://catalog.afi.com/Catalog/moviedetails/59373) указывает премьеру 1992 года; [BFI](https://www.bfi.org.uk/film/7ad167dc-d40c-5a12-b167-726ae30d60a5/reservoir-dogs) — 1991 и 99 минут; [статья BFI](https://www.bfi.org.uk/features/reservoir-dogs-quentin-tarantino) подтверждает премьеру 1992. Выбран год премьеры; каталожная датировка 1991 сохранена здесь как различие.
 - d03f05: [AFI](https://catalog.afi.com/Film/62793-KILL-BILL----VOL.-1) — США, 2003, 110 минут и режиссёр; [BFI](https://www.bfi.org.uk/film/0bf8530c-20cd-54f2-8813-fbd698ccddd3/kill-bill-vol-1) — стиль.
 - d03f06 остаётся partial: [каталог Канн](https://www.festival-cannes.com/en/f/once-upon-a-time-in-hollywood/) — США, 159 минут, [BFI](https://www.bfi.org.uk/film/05524a28-0fb1-5ab9-aca5-54001f99a85e/once-upon-a-time-in-hollywood) — США/Великобритания/Китай, 161 минута, а [предварительное объявление Канн](https://www.festival-cannes.com/en/press/press-releases/the-2019-selection-new-announcements/) — 165 минут. Причины различий не установлены; не утверждается, что все значения описывают разные монтажи.
+
+## Проверка профилей d01–d09
+
+Биографии сверены с ранее указанными статьями Britannica; ссылки ниже подтверждают конкретные награды и профессиональный контекст. Стилевые характеристики являются редакторским обобщением.
+
+- d01: [источник 1](https://www.labiennale.org/en/history-venice-film-festival), [источник 2](https://www.oscars.org/oscars/ceremonies/1990/memorable-moments).
+- d02: [источник 1](https://www.labiennale.org/en/history-venice-film-festival), [источник 2](https://www.bfi.org.uk/sight-and-sound/features/tarkovsky-legacy), [источник 3](https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6296/releases/MOMA_1986_0030_27.pdf), [источник 4](https://tarkovskiy.gosfilmofond.ru/1961-may-15-diplom-s-otlichiem/).
+- d03: [источник 1](https://www.oscars.org/oscars/ceremonies/1995), [источник 2](https://www.bfi.org.uk/features/where-begin-quentin-tarantino).
+- d04: [источник 1](https://www.oscars.org/oscars/ceremonies/1969), [источник 2](https://www.oscars.org/events/2001-space-odyssey-1968).
+- d05: [источник 1](https://www.oscars.org/oscars/ceremonies/2007), [источник 2](https://www.bfi.org.uk/features/where-begin-with-martin-scorsese).
+- d06: [источник 1](https://www.oscars.org/oscars/ceremonies/1941/memorable-moments), [источник 2](https://www.oscars.org/events/rebecca-premiere-new-4k-digital-restoration).
+- d07: [источник 1](https://www.oscars.org/governors/ceremonies/2010/memorable-moments), [источник 2](https://www.bfi.org.uk/features/where-begin-with-francis-ford-coppola).
+- d08: [источник 1](https://digitalcollections.oscars.org/digital/api/collection/p15759coll4/id/4749/download), [источник 2](https://www.bfi.org.uk/features/wild-strawberries-ingmar-bergman-influenced).
+- d09: [источник 1](https://www.oscars.org/oscars/ceremonies/1993/memorable-moments), [источник 2](https://www.bfi.org.uk/features/where-begin-federico-fellini).
+
+d02: MoMA указывает окончание ВГИКа в 1960 году, Госфильмофонд датирует диплом 15 мая 1961 года; год исключён из биографии, различие сохранено. Венецианский «Золотой лев» 1962 года разделён с фильмом «Семейная хроника». d03: Академия указывает сценарий Тарантино и сюжет Тарантино и Эвери; оба получили премию. d06: «Ребекка» победила за лучший фильм; Хичкок был номинирован за режиссуру. d07: премия Тальберга — награда продюсеру, не конкурсная режиссёрская победа.
