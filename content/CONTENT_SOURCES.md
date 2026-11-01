@@ -388,3 +388,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d10f06: [источник](https://www.criterion.com/films/30077-inland-empire), [контекст](https://www.bfi.org.uk/film/e833d9ae-8b2e-50da-8b23-bfd8dbcc471d/inland-empire); статус verified.
 
 Для d10f04 страну требуют уточнить: [BFI](https://www.bfi.org.uk/film/72d11537-9e8d-59cf-b11f-bc8a57d9c46f/the-elephant-man) указывает США, Criterion — Великобританию. Для d10f05 [BFI](https://www.bfi.org.uk/film/615cbeca-3f03-5098-a215-da59b18558d8/lost-highway) указывает 1996, Criterion — 1997; оставлен существующий год до уточнения.
+
+## Спилберг: d11f01–d11f06
+
+Название, год, режиссёр и основные события сверены с источниками; жанр и трактовка значимости — редакторские. Продолжительности сохранены по прежним источникам.
+
+- d11f01: [каталог](https://catalog.afi.com/Film/55193-JAWS), [контекст](https://www.bfi.org.uk/film/98b20662-5754-5b8a-8e69-38fbec0d85c2/jaws).
+- d11f02: [каталог](https://www.bfi.org.uk/film/93fa4096-72e7-513b-b3e3-2a70c6d85234/schindlers-list), [контекст](https://encyclopedia.ushmm.org/content/en/article/oskar-schindler).
+- d11f03: [каталог](https://catalog.afi.com/Catalog/moviedetails/67200), [контекст](https://www.afi.com/news/afi-movie-club-jurassic-park/).
+- d11f04: [каталог](https://catalog.afi.com/Catalog/moviedetails/67250), [контекст](https://silver.afi.com/movies/detail/0100000071/).
+- d11f05: [каталог](https://catalog.afi.com/Film/67140-), [контекст](https://www.afi.com/laa/steven-spielberg/).
+- d11f06: [каталог](https://www.bfi.org.uk/film/4f434899-70f6-5aa8-b8aa-c901752375da/saving-private-ryan), [контекст](https://www.oscars.org/oscars/ceremonies/1999/S).
+
+Страны и годы дополнительно сверены по [AFI](https://www.afi.com/press/steven-spielberg-to-present-john-williams-with-american-film-institutes-life-achievement-award/) и индивидуальным каталогам; награды «Списка Шиндлера» — [киноакадемия](https://www.oscars.org/oscars/ceremonies/1994).
