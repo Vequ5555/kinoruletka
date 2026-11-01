@@ -344,3 +344,11 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - **d07f04 «Крёстный отец 2»**: [BFI](https://www.bfi.org.uk/film/23623933-4680-5504-8e70-dcde5847c383/the-godfather-part-ii) — идентификация и структура; [киноакадемия](https://www.oscars.org/oscars/ceremonies/1975/memorable-moments) — награды; [показ академии](https://www.oscars.org/events/double-feature-bonnie-and-clyde-and-godfather-part-ii) — США, 1974 и 200 минут.
 - **d07f05 «Дракула»**: [AFI](https://catalog.afi.com/Catalog/MovieDetails/67037) и [BFI](https://www.bfi.org.uk/film/71a77bfd-9339-54c7-8a6a-0375d690ba78/bram-stokers-dracula) — название, год, постановщик, страна и сюжет; описание стилизации — редакторский анализ.
 - **d07f06 «Бойцовая рыбка»**: [Criterion](https://www.criterion.com/films/28993-rumble-fish) — название, 1983, США, роман, сюжет, чёрно-белая съёмка и музыка.
+
+## Бергман: d08f01–d08f03
+
+Каталожные название, год, режиссёр и страна, сюжет и описанные художественные особенности сверены по ссылкам; жанры и трактовка значимости — редакторская классификация. Ранее выбранные продолжительности сохранены.
+
+- d08f01: [Criterion или архив](https://www.criterion.com/films/28491-persona), [архив или Criterion](https://www.ingmarbergman.se/en/production/persona).
+- d08f02: [Criterion или архив](https://www.ingmarbergman.se/en/production/seventh-seal), [архив или Criterion](https://www.criterion.com/current/posts/5242--bergman100).
+- d08f03: [Criterion или архив](https://www.criterion.com/films/175-wild-strawberries), [архив или Criterion](https://www.ingmarbergman.se/en/production/wild-strawberries).
