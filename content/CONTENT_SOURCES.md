@@ -190,3 +190,27 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d18f06: AFI датирует национальный прокат 2002 годом, исходный каталог использует 2001; год оставлен без изменения до уточнения дат премьер.
 - d25f01: 114 минут — запись Канн 2006 года; [другая запись фестиваля](https://www.festival-cannes.com/f/pan-s-labyrinth/) указывает 118 минут. Причина различия не установлена.
 - d25f02: 123 минуты — показ IFFR 2018 и [лондонского фестиваля](https://www.bfi.org.uk/sight-and-sound/news/30-recommendations-bfi-london-film-festival-2017); [карточка BFI](https://www.bfi.org.uk/film/00270355-6748-5352-80cc-8ec9bcd68c66/the-shape-of-water) указывает 119 минут. Причина различия не установлена.
+
+## Продолжительности: дополнительная партия
+
+Продолжительности отнесены к указанным источникам; другие поля предварительных карточек не проверены.
+
+- d13f06 — Дюна: 159 мин. [Источник](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=dune-part-one-imax).
+- d17f02 — Однажды на Диком Западе: 165 мин. [Источник](https://catalog.afi.com/Film/21519-ONCE-UPONATIMEINTHEWEST).
+- d17f05 — Однажды в Америке: 227 мин. [Источник](https://catalog.afi.com/Film/57162-ONCE-UPONATIMEINAMERICA).
+- d19f04 — Социальная сеть: 120 мин. [Источник](https://catalog.afi.com/Catalog/moviedetails/66175).
+- d19f05 — Исчезнувшая: 145 мин. [Источник](https://catalog.afi.com/Film/70114-GONE-GIRL).
+- d19f06 — Девушка с татуировкой дракона: 158 мин. [Источник](https://catalog.afi.com/Catalog/moviedetails/68302).
+- d20f01 — Нефть: 158 мин. [Источник](https://www.bfi.org.uk/film/a36f4303-906f-55a0-a906-c4116a9faebe/there-will-be-blood).
+- d20f02 — Ночи в стиле буги: 155 мин. [Источник](https://catalog.afi.com/Film/60670-BOOGIE-NIGHTS).
+- d20f04 — Магнолия: 189 мин. [Источник](https://catalog.afi.com/Catalog/moviedetails/61220).
+- d20f05 — Мастер: 137 мин. [Источник](https://catalog.afi.com/Film/68890-THE-MASTER).
+- d24f03 — Жить: 129 мин. [Источник](https://www.festival-cannes.com/en/f/huozhe/).
+- d24f05 — Дом летающих кинжалов: 119 мин. [Источник](https://www.festival-cannes.com/en/f/shi-mian-mai-fu-house-of-flying-daggers/).
+
+### Версии и расхождения
+
+- d13f06: 159 минут — один из сеансов BFI IMAX; [другой сеанс BFI](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=dune-dec-2026) указывает 156 минут, причину различия источник не объясняет.
+- d17f02: 165 минут — нью-йоркский прокат 1969 года по AFI; разные выпуски могут иметь другую длительность.
+- d17f05: 227 минут — каннский показ 1984 года по AFI; источник описывает также существенно сокращённый американский прокатный монтаж.
+- d20f01: BFI — 158 минут; [AFI](https://catalog.afi.com/Film/55177-THERE-WILLBEBLOOD) приводит диапазон 158–159 минут.
