@@ -414,3 +414,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d12f06: [каталог](https://www.bfi.org.uk/features/oppenheimer-view-from-ground-zero), [контекст](https://www.oscars.org/oscars/ceremonies/2024).
 
 Страны d12f02–d12f05 подтверждены показами BFI: [Престиж](https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=prestige2022), [Интерстеллар](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=interstellar), [Начало](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=inception), [Тёмный рыцарь](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=dark-knight-imax).
+
+## Вильнёв: d13f01–d13f06
+
+Названия, годы, режиссура и сюжеты сверены по источникам; жанры и интерпретации — редакторские. Продолжительности сохранены по ранее выбранным источникам.
+
+- d13f01: [карточка](https://www.cnc.fr/professionnels/visas-et-classification/128172), [контекст](https://www.bfi.org.uk/sight-and-sound/interviews/blood-lines-denis-villeneuve-incendies).
+- d13f02: [карточка](https://www.bfi.org.uk/film/e78648fa-23dd-5ed1-aaac-6c03ffb18ef7/arrival), [контекст](https://player.bfi.org.uk/rentals/film/watch-arrival-2016-online).
+- d13f03: [карточка](https://www.bfi.org.uk/film/ec248454-6f41-5579-a53e-66b3a06aeb6c/blade-runner-2049), [контекст](https://www.oscars.org/oscars/ceremonies/90th-oscar-highlights).
+- d13f04: [карточка](https://www.bfi.org.uk/film/18f54621-4356-57de-aada-c657ceb65f15/prisoners), [контекст](https://www.bfi.org.uk/sight-and-sound/reviews/prisoners).
+- d13f05: [карточка](https://www.festival-cannes.com/en/f/sicario/), [контекст](https://www.bfi.org.uk/features/strange-new-worlds-craft-denis-villeneuve).
+- d13f06: [карточка](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=dune-part-one-imax), [контекст](https://www.bfi.org.uk/features/strange-new-worlds-craft-denis-villeneuve).
+
+Страна d13f03 дополнена Испанией по [BFI IMAX](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=blade-runner-2049-imax-3d). Страны других картин: [Прибытие](https://www.bfi.org.uk/film/e78648fa-23dd-5ed1-aaac-6c03ffb18ef7/arrival), [Пленницы](https://www.bfi.org.uk/news/bfi-players-september-2025-line), [Убийца](https://www.festival-cannes.com/en/f/sicario/), [Дюна](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=dune-part-one-imax).
