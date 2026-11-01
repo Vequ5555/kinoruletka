@@ -352,3 +352,13 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d08f01: [Criterion или архив](https://www.criterion.com/films/28491-persona), [архив или Criterion](https://www.ingmarbergman.se/en/production/persona).
 - d08f02: [Criterion или архив](https://www.ingmarbergman.se/en/production/seventh-seal), [архив или Criterion](https://www.criterion.com/current/posts/5242--bergman100).
 - d08f03: [Criterion или архив](https://www.criterion.com/films/175-wild-strawberries), [архив или Criterion](https://www.ingmarbergman.se/en/production/wild-strawberries).
+
+## Бергман: d08f04–d08f06
+
+Названия, год, режиссёр и сюжет сверены по источникам; жанры и смысл — редакторская интерпретация. Продолжительности сохранены.
+
+- d08f04: [источник](https://www.bfi.org.uk/film/12cbf169-c5eb-5b83-9ec0-a43a34937127/fanny-and-alexander), [контекст](https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version).
+- d08f05: [источник](https://www.bfi.org.uk/film/bac35364-d0ae-5660-b367-f61512c10589/cries-and-whispers), [контекст](https://www.criterion.com/films/237-cries-and-whispers).
+- d08f06: [источник](https://www.ingmarbergman.se/en/production/autumn-sonata), [контекст](https://player.bfi.org.uk/subscription/film/watch-autumn-sonata-1978-online).
+
+Для d08f06 страна уточнена как ФРГ по архиву Бергмана и BFI; Criterion указывает Швецию. d08f04 существует в кинотеатральной и телевизионной версиях. d08f05 датируется 1972 годом по BFI и Criterion, архив Бергмана приводит 1973; выбран первоначальный год в каталоге.
