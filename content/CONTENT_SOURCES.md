@@ -133,3 +133,31 @@
 - d16f06 — Жажда: 133 мин. [Источник](https://www.festival-cannes.com/en/f/bak-jwi/).
 
 d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-and-sound/features/blockage-line-snowpiercer-vs-scissorhands) сообщает о споре по поводу сокращённого монтажа для проката, но не устанавливает его конечную длительность.
+
+## Продолжительности: Вильнёв, Уэллс, Одзу и Спилберг
+
+Указаны значения конкретных каталогов; остальные поля карточек остаются предварительными.
+
+- d11f06 — Спасти рядового Райана: 170 мин. [Источник](https://www.bfi.org.uk/film/4f434899-70f6-5aa8-b8aa-c901752375da/saving-private-ryan).
+- d13f01 — Пожары: 131 мин. [Источник](https://www.cnc.fr/professionnels/visas-et-classification/128172).
+- d13f02 — Прибытие: 116 мин. [Источник](https://catalog.afi.com/Film/70894-ARRIVAL).
+- d13f03 — Бегущий по лезвию 2049: 164 мин. [Источник](https://www.bfi.org.uk/film/ec248454-6f41-5579-a53e-66b3a06aeb6c/blade-runner-2049).
+- d13f04 — Пленницы: 153 мин. [Источник](https://www.classification.gov.au/titles/prisoners).
+- d13f05 — Убийца: 121 мин. [Источник](https://www.festival-cannes.com/en/f/sicario/).
+- d22f01 — Гражданин Кейн: 119 мин. [Источник](https://www.criterion.com/films/32250-citizen-kane).
+- d22f03 — Великолепные Эмберсоны: 88 мин. [Источник](https://www.criterion.com/films/28711-the-magnificent-ambersons).
+- d22f05 — Полуночные колокола: 116 мин. [Источник](https://www.criterion.com/films/28756-chimes-at-midnight).
+- d22f06 — Процесс: 118 мин. [Источник](https://www.criterion.com/films/28115-the-trial).
+- d23f01 — Токийская повесть: 137 мин. [Источник](https://www.criterion.com/films/284-tokyo-story).
+- d23f02 — Поздняя весна: 108 мин. [Источник](https://www.criterion.com/films/298-late-spring).
+- d23f03 — Осенний полдень: 113 мин. [Источник](https://www.criterion.com/films/784).
+- d23f04 — Раннее лето: 125 мин. [Источник](https://www.criterion.com/films/875-early-summer).
+- d23f05 — Плывущие травы: 119 мин. [Источник](https://www.criterion.com/films/349).
+- d23f06 — Доброе утро: 93 мин. [Источник](https://www.criterion.com/films/624-good-morning).
+
+### Расхождения и версии
+
+- d11f06: BFI указывает 170 мин, [AFI](https://catalog.afi.com/Catalog/moviedetails/67247) — 169–170.
+- d13f01: французский CNC и [квебекский каталог](https://repertoire.cinema.mcc.gouv.qc.ca/film/incendies-326914/) указывают 131 мин, [BFI](https://www.bfi.org.uk/film/3ce1a49e-7092-526a-af0f-26ccf12dceee/incendies) — 150. Причина расхождения не установлена.
+- d13f04: австралийский классификатор указывает 153 мин, [AFI](https://catalog.afi.com/Film/69692-PRISONERS) — 151; причина расхождения неизвестна.
+- d22f03: 88 мин — выпущенная студией версия; предварительный монтаж Уэллса продолжительностью около 131 минуты не сохранился в полном виде ([Criterion](https://www.criterion.com/current/posts/803-the-magnificent-ambersons)).
