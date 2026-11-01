@@ -253,3 +253,11 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d22f04: 87 мин — сохранившаяся сокращённая студией версия; [Yale Film Archive](https://web.library.yale.edu/film/notes/fn00011) описывает сокращение чернового монтажа около 155 минут.
 - d24f01: BFI — 124 мин; [IFFR](https://iffr.com/en/iffr/1992/films/raise-the-red-lantern-dahong-denglong-gaogao-guo) — 125 мин. Причина расхождения не установлена.
 - d25f06: 150 мин — кинотеатральный цветной вариант; [Criterion](https://www.criterion.com/films/35272-nightmare-alley) указывает также чёрно-белую расширенную режиссёрскую версию 2025 года на 159 минут.
+
+## Проверка профиля d10 — Дэвид Линч
+
+- [Television Academy](https://www.televisionacademy.com/bios/david-lynch): годы жизни, занятия искусством и музыкой, ранняя карьера, фильмы и влияние «Твин Пикса».
+- [Television Academy: история сериала](https://www.televisionacademy.com/features/emmy-magazine/articles/twin-peaks-david-lynch-oral-history): совместное создание с Марком Фростом.
+- [Каннский фестиваль](https://www.festival-cannes.com/en/p/david-lynch/): «Золотая пальмовая ветвь» за «Дикие сердцем» и разделённый приз за режиссуру «Малхолланд Драйв».
+- [Американская киноакадемия: профиль](https://www.oscars.org/governors-awards/2019/david-lynch) и [церемония 2019 года](https://www.oscars.org/governors/ceremonies/2019): режиссёрские номинации и почётная награда. Почётная награда не является конкурсной победой за режиссуру.
+- Описание стиля — редакторская интерпретация по перечисленным работам и материалам; утверждение о влиянии на отдельных авторов намеренно не конкретизировано без отдельных свидетельств.
