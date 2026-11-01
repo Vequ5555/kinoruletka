@@ -362,3 +362,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d08f06: [источник](https://www.ingmarbergman.se/en/production/autumn-sonata), [контекст](https://player.bfi.org.uk/subscription/film/watch-autumn-sonata-1978-online).
 
 Для d08f06 страна уточнена как ФРГ по архиву Бергмана и BFI; Criterion указывает Швецию. d08f04 существует в кинотеатральной и телевизионной версиях. d08f05 датируется 1972 годом по BFI и Criterion, архив Бергмана приводит 1973; выбран первоначальный год в каталоге.
+
+## Фильмография Феллини: d09f01–d09f06
+
+Факты о сюжете, режиссёре, названиях и годах сверены с указанными источниками; жанры и трактовка — редакторские. Продолжительности сохранены по прежним источникам.
+
+- d09f01: [каталог](https://www.criterion.com/films/150-8), [контекст](https://www.bfi.org.uk/film/3b1e80a4-111a-5fff-b799-7c50460d6284/812).
+- d09f02: [каталог](https://www.bfi.org.uk/film/85387dcd-04ae-50fe-b860-89be5a907115/la-dolce-vita), [контекст](https://www.festival-cannes.com/en/f/la-dolce-vita/).
+- d09f03: [каталог](https://www.criterion.com/films/243), [контекст](https://www.bfi.org.uk/lists/federico-fellini-10-essential-films).
+- d09f04: [каталог](https://www.criterion.com/films/208-amarcord), [контекст](https://www.bfi.org.uk/film/90096ab6-3f75-50a9-a167-f9da9cc38bfd/amarcord).
+- d09f05: [каталог](https://www.criterion.com/films/185-la-strada), [контекст](https://www.bfi.org.uk/lists/federico-fellini-10-essential-films).
+- d09f06: [каталог](https://www.criterion.com/films/689-juliet-of-the-spirits), [контекст](https://www.criterion.com/current/posts/7201-primary-sources).
+
+В d09f04 сохранён 1973 год по Criterion; BFI датирует фильм 1972 годом. Страны подтверждены BFI: [8½](https://www.bfi.org.uk/film/3b1e80a4-111a-5fff-b799-7c50460d6284/812), [Сладкая жизнь](https://www.bfi.org.uk/film/85387dcd-04ae-50fe-b860-89be5a907115/la-dolce-vita), [Ночи Кабирии](https://www.bfi.org.uk/film/31f27067-e11f-52c2-95c1-5fad9e71eab5/le-notti-di-cabiria), [Дорога](https://www.bfi.org.uk/film/aa551be7-dc11-50e3-9d0d-0193b8a3422e/la-strada), [Джульетта](https://www.bfi.org.uk/film/80f8b377-a8d0-5169-8fab-7204c34e8c49/giulietta-degli-spiriti).
