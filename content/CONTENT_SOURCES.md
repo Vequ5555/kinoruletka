@@ -516,3 +516,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d20f06: [источник 1](https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=licoricepizza), [источник 2](https://www.bfi.org.uk/sight-and-sound/reviews/licorice-pizza-meandering-trip-beneath-california-sun).
 
 d20f03: статистический ежегодник BFI относит фильм к совместному производству Великобритании и США; рецензия BFI обозначает США. Сохранены обе страны. Возраст АланЫ в d20f06 не указан: два материала BFI расходятся (25 и 28 лет).
+
+## Хаяо Миядзаки: d21f01–d21f06
+
+Сведения о фильмах и сюжетах сверены по страницам дистрибьютора GKIDS; исторический контекст и режиссёрские темы — по [BFI](https://www.bfi.org.uk/features/where-begin-with-studio-ghibli) и [обзору аниме](https://www.bfi.org.uk/sight-and-sound/lists/50-key-anime-films). Жанры и интерпретации — редакторские; продолжительность сохранена по прежним источникам.
+
+- d21f01: [страница фильма](https://gkids.com/films/spirited-away/).
+- d21f02: [страница фильма](https://gkids.com/films/princess-mononoke/).
+- d21f03: [страница фильма](https://gkids.com/films/my-neighbor-totoro/).
+- d21f04: [страница фильма](https://gkids.com/films/nausicaa-of-the-valley-of-the-wind/).
+- d21f05: [страница фильма](https://gkids.com/films/howls-moving-castle/).
+- d21f06: [страница фильма](https://gkids.com/films/the-wind-rises/).
+
+BFI относит «Навсикаю» к работам, предшествующим основанию Ghibli. «Ветер крепчает» использует биографию Хорикоси как основу художественного вымысла.
