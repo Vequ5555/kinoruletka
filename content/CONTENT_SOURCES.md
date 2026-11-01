@@ -401,3 +401,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d11f06: [каталог](https://www.bfi.org.uk/film/4f434899-70f6-5aa8-b8aa-c901752375da/saving-private-ryan), [контекст](https://www.oscars.org/oscars/ceremonies/1999/S).
 
 Страны и годы дополнительно сверены по [AFI](https://www.afi.com/press/steven-spielberg-to-present-john-williams-with-american-film-institutes-life-achievement-award/) и индивидуальным каталогам; награды «Списка Шиндлера» — [киноакадемия](https://www.oscars.org/oscars/ceremonies/1994).
+
+## Нолан: d12f01–d12f06
+
+Названия, режиссура, годы и сюжеты сверены по источникам; жанры и интерпретации — редакторские. Продолжительности сохранены по ранее выбранным источникам.
+
+- d12f01: [каталог](https://www.bfi.org.uk/film/6e9da010-7145-59ea-98f9-3c6fcb142b1f/memento), [контекст](https://catalog.afi.com/Film/53928-MEMENTO).
+- d12f02: [каталог](https://www.bfi.org.uk/film/5ed8d2f9-837b-5aa4-b8a9-dd4cb7368c50/the-prestige), [контекст](https://www.bfi.org.uk/sight-and-sound/features/christopher-nolan-time-games).
+- d12f03: [каталог](https://www.bfi.org.uk/film/b07de850-8dd4-5fe1-a1e1-8d27fec041c1/interstellar), [контекст](https://player.bfi.org.uk/rentals/film/watch-interstellar-2014-online).
+- d12f04: [каталог](https://www.bfi.org.uk/film/7666aa5b-0e00-50bc-8814-0028479d8767/inception), [контекст](https://www.bfi.org.uk/lists/10-great-heist-films).
+- d12f05: [каталог](https://www.bfi.org.uk/film/c696829d-9680-5529-a70e-1140da039234/the-dark-knight), [контекст](https://www.bfi.org.uk/sight-and-sound/interviews/christopher-nolan-showmans-odyssey-oppenheimer).
+- d12f06: [каталог](https://www.bfi.org.uk/features/oppenheimer-view-from-ground-zero), [контекст](https://www.oscars.org/oscars/ceremonies/2024).
+
+Страны d12f02–d12f05 подтверждены показами BFI: [Престиж](https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=prestige2022), [Интерстеллар](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=interstellar), [Начало](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=inception), [Тёмный рыцарь](https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=dark-knight-imax).
