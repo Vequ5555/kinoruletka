@@ -375,3 +375,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d09f06: [каталог](https://www.criterion.com/films/689-juliet-of-the-spirits), [контекст](https://www.criterion.com/current/posts/7201-primary-sources).
 
 В d09f04 сохранён 1973 год по Criterion; BFI датирует фильм 1972 годом. Страны подтверждены BFI: [8½](https://www.bfi.org.uk/film/3b1e80a4-111a-5fff-b799-7c50460d6284/812), [Сладкая жизнь](https://www.bfi.org.uk/film/85387dcd-04ae-50fe-b860-89be5a907115/la-dolce-vita), [Ночи Кабирии](https://www.bfi.org.uk/film/31f27067-e11f-52c2-95c1-5fad9e71eab5/le-notti-di-cabiria), [Дорога](https://www.bfi.org.uk/film/aa551be7-dc11-50e3-9d0d-0193b8a3422e/la-strada), [Джульетта](https://www.bfi.org.uk/film/80f8b377-a8d0-5169-8fab-7204c34e8c49/giulietta-degli-spiriti).
+
+## Линч: d10f01–d10f06
+
+Названия, режиссура, годы, сюжет и контекст сверены по ссылкам; смысл и жанровые характеристики — редакторское прочтение. Продолжительности сохранены по прежним источникам.
+
+- d10f01: [источник](https://www.festival-cannes.com/en/f/mulholland-drive/), [контекст](https://www.festival-cannes.com/en/retrospective/2001/awards/); статус verified.
+- d10f02: [источник](https://www.bfi.org.uk/features/david-lynch-dream-engine-who-altered-our-orbit), [контекст](https://www.criterion.com/shop/collection/499-david-lynch/list); статус verified.
+- d10f03: [источник](https://www.criterion.com/films/28382-eraserhead), [контекст](https://www.bfi.org.uk/news/bfi-programme-highlights-january-2026); статус verified.
+- d10f04: [источник](https://www.criterion.com/films/29677-the-elephant-man), [контекст](https://player.bfi.org.uk/rentals/film/watch-the-elephant-man-1980-online); статус partial.
+- d10f05: [источник](https://www.criterion.com/films/31590-lost-highway), [контекст](https://www.bfi.org.uk/film/615cbeca-3f03-5098-a215-da59b18558d8/lost-highway); статус partial.
+- d10f06: [источник](https://www.criterion.com/films/30077-inland-empire), [контекст](https://www.bfi.org.uk/film/e833d9ae-8b2e-50da-8b23-bfd8dbcc471d/inland-empire); статус verified.
+
+Для d10f04 страну требуют уточнить: [BFI](https://www.bfi.org.uk/film/72d11537-9e8d-59cf-b11f-bc8a57d9c46f/the-elephant-man) указывает США, Criterion — Великобританию. Для d10f05 [BFI](https://www.bfi.org.uk/film/615cbeca-3f03-5098-a215-da59b18558d8/lost-highway) указывает 1996, Criterion — 1997; оставлен существующий год до уточнения.
