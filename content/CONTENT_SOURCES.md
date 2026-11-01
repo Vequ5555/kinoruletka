@@ -214,3 +214,42 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d17f02: 165 минут — нью-йоркский прокат 1969 года по AFI; разные выпуски могут иметь другую длительность.
 - d17f05: 227 минут — каннский показ 1984 года по AFI; источник описывает также существенно сокращённый американский прокатный монтаж.
 - d20f01: BFI — 158 минут; [AFI](https://catalog.afi.com/Film/55177-THERE-WILLBEBLOOD) приводит диапазон 158–159 минут.
+
+## Заключительная партия продолжительностей
+
+Указано время конкретной копии или каталожной версии. Проверена идентификация и продолжительность, прочие поля остаются предварительными.
+
+- d11f05 — Инопланетянин: 115 мин. [Источник](https://www.classification.gov.au/titles/et-extra-terrestrial-2).
+- d12f06 — Оппенгеймер: 180 мин. [Источник](https://www.classification.gov.au/titles/oppenheimer).
+- d15f05 — Вторжение динозавра: 119 мин. [Источник](https://www.filmlinc.org/films/the-host/).
+- d16f04 — Сочувствие господину Месть: 129 мин. [Источник](https://www.filmlinc.org/series/relentless-invention-new-korean-cinema-1996-2003/).
+- d16f05 — Сочувствие госпоже Месть: 115 мин. [Источник](https://player.bfi.org.uk/subscription/film/watch-lady-vengeance-2005-online).
+- d17f01 — Хороший, плохой, злой: 161 мин. [Источник](https://www.oscars.org/events/good-bad-and-ugly).
+- d17f03 — На несколько долларов больше: 132 мин. [Источник](https://www.festival-cannes.com/en/f/per-qualche-dollaro-in-piu/).
+- d17f04 — За пригоршню долларов: 99 мин. [Источник](https://kinolorber.com/film/afistfulofdollarsspecialedition).
+- d17f06 — За пригоршню динамита: 157 мин. [Источник](https://catalog.afi.com/Film/54460-DUCK-YOU-SUCKER).
+- d18f05 — Царство небес: 144 мин. [Источник](https://www.classification.gov.au/titles/kingdom-heaven-1).
+- d20f03 — Призрачная нить: 130 мин. [Источник](https://silver.afi.com/movies/detail/0100001751/).
+- d20f06 — Лакричная пицца: 133 мин. [Источник](https://silver.afi.com/movies/detail/0100003226/).
+- d21f02 — Принцесса Мононоке: 134 мин. [Источник](https://www.ifccenter.com/films/princess-mononoke/).
+- d21f04 — Навсикая из Долины ветров: 117 мин. [Источник](https://www.classification.gov.au/titles/nausicaa-valley-wind).
+- d22f02 — Печать зла: 111 мин. [Источник](https://cinema.wisc.edu/2015/02/27/evan-davis-orson-welless-touch-evil/).
+- d22f04 — Леди из Шанхая: 87 мин. [Источник](https://web.library.yale.edu/film/notes/fn00011).
+- d24f01 — Подними красный фонарь: 124 мин. [Источник](https://www.bfi.org.uk/film/d4bb41b5-d42a-5555-8430-d875e297d329/raise-the-red-lantern).
+- d24f02 — Герой: 99 мин. [Источник](https://www.filmlinc.org/films/hero/).
+- d24f04 — Цзюй Доу: 95 мин. [Источник](https://www.filmlinc.org/films/nyff-90-ju-dou/).
+- d24f06 — Проклятие золотого цветка: 114 мин. [Источник](https://www.classification.gov.au/titles/curse-golden-flower).
+- d25f06 — Аллея кошмаров: 150 мин. [Источник](https://www.criterion.com/films/35272-nightmare-alley).
+
+### Монтажи и расхождения
+
+- d11f05: 115 мин — австралийский кинотеатральный материал 1982 года; [AFI](https://catalog.afi.com/Catalog/moviedetails/67140) приводит 115 или 120 минут.
+- d17f01: 161 мин — показ Американской киноакадемии; [BFI](https://www.bfi.org.uk/film/48f84a16-0530-544f-b591-0d564249dd43/the-good-the-bad-and-the-ugly) указывает 177 минут. Разные версии требуют отдельного уточнения при просмотре.
+- d17f04: 99 мин — 4K-реставрация Kino Lorber.
+- d17f06: 157 мин — реставрация оригинальной итальянской версии 2007 года по AFI, который описывает и более короткие версии.
+- d18f05: 144 мин — копия, классифицированная для кинотеатрального показа в Австралии; существует более длинная режиссёрская версия, её продолжительность здесь не заявляется.
+- d20f03 и d20f06: продолжительность показов в 70 мм по AFI Silver.
+- d22f02: 111 мин — реконструкция 1998 года по записке Уэллса; это не монтаж, утверждённый самим режиссёром. Варианты реконструкции и прежних версий описаны [здесь](https://wellesnet.com/touch-of-evil-being-readied-for-blu-ray-release/).
+- d22f04: 87 мин — сохранившаяся сокращённая студией версия; [Yale Film Archive](https://web.library.yale.edu/film/notes/fn00011) описывает сокращение чернового монтажа около 155 минут.
+- d24f01: BFI — 124 мин; [IFFR](https://iffr.com/en/iffr/1992/films/raise-the-red-lantern-dahong-denglong-gaogao-guo) — 125 мин. Причина расхождения не установлена.
+- d25f06: 150 мин — кинотеатральный цветной вариант; [Criterion](https://www.criterion.com/films/35272-nightmare-alley) указывает также чёрно-белую расширенную режиссёрскую версию 2025 года на 159 минут.
