@@ -503,3 +503,16 @@ d15f03: 126 минут — сеанс BFI; [BFI](https://www.bfi.org.uk/sight-an
 - d19f04: [каталог](https://catalog.afi.com/Catalog/moviedetails/66175), [контекст](https://www.oscars.org/videos-photos/83rd-oscars-highlights).
 - d19f05: [каталог](https://catalog.afi.com/Film/70114-GONE-GIRL), [контекст](https://www.bfi.org.uk/lists/10-great-missing-person-films).
 - d19f06: [каталог](https://catalog.afi.com/Catalog/moviedetails/68302), [контекст](https://www.bfi.org.uk/features/mindhunter-american-psychos).
+
+## Пол Томас Андерсон: d20f01–d20f06
+
+Названия, годы, режиссура и основные сюжетные сведения сверены по страницам ниже; жанры и объяснения значимости представляют редакторскую классификацию и интерпретацию. Продолжительности сохранены по ранее указанным источникам.
+
+- d20f01: [источник 1](https://catalog.afi.com/Film/55177-THERE-WILL-BE-BLOOD), [источник 2](https://www.bfi.org.uk/film/a36f4303-906f-55a0-a906-c4116a9faebe/there-will-be-blood).
+- d20f02: [источник 1](https://catalog.afi.com/Film/60670-BOOGIE-NIGHTS), [источник 2](https://www.bfi.org.uk/lists/10-great-films-1997).
+- d20f03: [источник 1](https://www.bfi.org.uk/film/1a3c1f92-8b3c-5ae9-8ee6-366ee26f3d29/phantom-thread), [источник 2](https://www.bfi.org.uk/sight-and-sound/features/paul-thomas-anderson-phantom-thread-1950s-london-haute-couture-gothic-romance-daniel-day-lewis-vicky-krieps), [источник 3](https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2019.pdf).
+- d20f04: [источник 1](https://catalog.afi.com/Catalog/moviedetails/61220), [источник 2](https://watch.afi.com/movie/magnolia), [источник 3](https://silver.afi.com/movies/detail/0100003262/).
+- d20f05: [источник 1](https://www.bfi.org.uk/film/8a527f67-5ab8-50bd-8740-86614e1145b1/the-master), [источник 2](https://www.bfi.org.uk/sight-and-sound/reviews/film-week-master), [источник 3](https://www.bfi.org.uk/sight-and-sound/films-2012-contributors-t-w).
+- d20f06: [источник 1](https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=licoricepizza), [источник 2](https://www.bfi.org.uk/sight-and-sound/reviews/licorice-pizza-meandering-trip-beneath-california-sun).
+
+d20f03: статистический ежегодник BFI относит фильм к совместному производству Великобритании и США; рецензия BFI обозначает США. Сохранены обе страны. Возраст АланЫ в d20f06 не указан: два материала BFI расходятся (25 и 28 лет).
